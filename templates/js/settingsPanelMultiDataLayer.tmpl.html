@@ -1,0 +1,26 @@
+<p>The maximum and minimum values that can be obtained for a sector influence the displayed color. Use the controls
+    below too change these values:</p>
+<p><label for="minValue">Min value: </label> <input id="minValue" class="numeric pull-right" type="number"
+                                                    data-bind="value: minValue"/></p>
+<p><label for="maxValue">Max value:</label> <input id="maxValue" class="numeric pull-right" type="number"
+                                                   data-bind="value: maxValue"/></p>
+<br/>
+
+<p>The following expression will be used to compute the value shown for each of the sectors.</p>
+<div class="pull-left" style="margin-right: 5px; vertical-align:top"><i class="fa fa-2x fa-info-circle"></i></div>
+<div style="margin-left: 40px">
+    <small>
+        The expression can be written as a mathematical expression containing: numbers, operators
+        (<code>+ - * / % ^</code>), parentheses (<code>( )</code>) and the <code>sectorValue(datasetName)</code>
+        function. Supported dataset names are: <code data-bind="text: getLoadedDatasetsNames()"></code>.
+    </small>
+</div>
+<br/>
+<form data-bind="css: {'has-error': error()}">
+    <textarea class="form-control" rows="2" data-bind="value: expression"> </textarea>
+    <button class="btn btn-default" data-bind="click: parseExpression" style="margin: 10px 0;">
+        Parse
+    </button>
+    <pre class="alert alert-danger" data-bind="visible: error(), text: error"></pre>
+    <div class="alert alert-success" style="display: none">Parsing successful...</div>
+</form>

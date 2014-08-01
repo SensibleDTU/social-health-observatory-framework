@@ -1,0 +1,25 @@
+<div style="display: none" data-bind="visible: true, foreach: layerGroups">
+    <div class="layer-group">
+        <div class="header" data-bind="click: $parent.toggleExpandedGroup">
+            <span data-bind="text: name"></span>
+
+            <div class="expanded-indicator">
+                <i class="fa" data-bind="css: expanded() ? 'fa-chevron-down': 'fa-chevron-right'"></i>
+            </div>
+        </div>
+        <!-- ko if: expanded-->
+        <ul data-bind="foreach: layers">
+            <li class="layer" data-bind="css: {enabled: enabled()}, click: toggleEnabled">
+                <i class="status fa fa-2x fa-fw fa-check-circle-o"
+                   data-bind="css:  enabled() ? 'enabled': 'disabled' "></i>
+                <span data-bind="text: getName()"></span>
+                <!-- ko if: hasSettings || hasTimeControl -->
+                <button class="btn icon-btn pull-right" data-bind="click: $root.showSettingsForLayer, clickBubble: false">
+                    <i class="fa fa-lg fa-cog"></i>
+                </button>
+                <!-- /ko -->
+            </li>
+        </ul>
+        <!-- /ko -->
+    </div>
+</div>

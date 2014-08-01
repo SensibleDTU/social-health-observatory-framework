@@ -1,0 +1,123 @@
+/**
+ * The MIT License (MIT)
+ *
+ * Copyright (c) 2014 cosminstefanxp [@] gmail [.] com
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ */
+@import "elements";
+@import "constants";
+@import "control-panel";
+@import "utils";
+@import (css) "/bower_components/leaflet.markercluster/dist/MarkerCluster.css";
+@import (css) "/bower_components/leaflet.markercluster/dist/MarkerCluster.Default.css";
+@import (css) "/bower_components/seiyria-bootstrap-slider/dist/css/bootstrap-slider.min.css";
+@import (css) "lib/bootstrap-tagsinput.css";
+
+/**
+ * Main page
+ **/
+body {
+  //Move down content because we have a fixed navbar that is 50px tall
+  margin-top: @header-height;
+  color: @font-color;
+}
+
+html, body, #content {
+  // NOTE: No need for height being set while we're using absolute positioning of main content
+  //height: 100%;
+}
+
+.container-fluid {
+  // NOTE: No need for height being set while we're using absolute positioning of main content
+  // height: 100%;
+}
+
+#main-content {
+  position: fixed;
+  top: @header-height;
+  left: @control-panel-width;
+  bottom: 0;
+  right: 0;
+}
+
+.navbar {
+  background: @theme-color-darkest;
+}
+
+#map {
+  min-height: 640px;
+  height: 100%;
+  position: relative;
+}
+
+.slider.slider-horizontal {
+}
+
+.sidebar {
+  display: none;
+}
+
+#content {
+  min-height: 800px;
+}
+
+.nav-sidebar {
+  margin-bottom: 20px;
+}
+
+.nav-sidebar > li {
+  background-color: #fff;
+  padding: 10px 20px;
+  margin: 5px 0;
+}
+
+.nav-sidebar > li:hover {
+  cursor: pointer;
+  background-color: #fafafa;
+}
+
+.info-box {
+  padding: 6px 8px;
+  background: white;
+  background: rgba(255, 255, 255, 0.8);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  min-width: 200px;
+  max-width: 500px;
+}
+
+.info-box h4 {
+  margin: 0 0 5px;
+  color: #777;
+}
+
+.leaflet-marker-icon:hover:not(.marker-cluster) {
+  .drop-shadow(0, 1px, 2px, 0.2);
+  .border-radius(10px, 10px, 10px, 10px);
+  border: 2px dotted #fff;
+}
+
+pre, code {
+  white-space: pre-wrap;       /* css-3 */
+  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;      /* Opera 4-6 */
+  white-space: -o-pre-wrap;    /* Opera 7 */
+  word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}

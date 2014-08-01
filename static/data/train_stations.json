@@ -1,0 +1,1280 @@
+[
+   {
+      "name": "Frederikssund",
+      "place_id": "5591478",
+      "lon": "12.0658237",
+      "address": "Frederikssund, Varehusvej, Frederikssund, Frederikssund Kommune, Region Hovedstaden, 3600, Danmark",
+      "lat": "55.8353804",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Tisvildeleje",
+      "place_id": "879908",
+      "lon": "12.0780239",
+      "address": "Tisvildeleje, Dyrek\u00e6rg\u00e5rdsvej, Tisvilde, Gribskov Kommune, Region Hovedstaden, 3220, Danmark, European Union",
+      "lat": "56.0594252",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Kagerup",
+      "place_id": "172313",
+      "lon": "12.28605",
+      "address": "Kagerup, Kagerup Stationsvej, Gribskov, Hessemose, Gribskov Kommune, Region Hovedstaden, Danmark, European Union",
+      "lat": "55.9973823",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Vejby",
+      "place_id": "170683",
+      "lon": "12.136076",
+      "address": "Vejby, Askemose \u00c5vej, Vejby, Gribskov Kommune, Region Hovedstaden, 3210, Danmark",
+      "lat": "56.0625682",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Frederiksv\u00e6rk",
+      "place_id": "5875188",
+      "lon": "12.0192873",
+      "address": "Frederiksv\u00e6rk, K.A. Larssensgade, Frederiksv\u00e6rk, Halsn\u00e6s Kommune, Region Hovedstaden, 3300, Danmark",
+      "lat": "55.9686032",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Melby",
+      "place_id": "11481909",
+      "lon": "11.9711398",
+      "address": "Melby, Melby Stationsvej, Melby, Halsn\u00e6s Kommune, Region Hovedstaden, 3370, Danmark",
+      "lat": "55.9913972",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Helsinge",
+      "place_id": "170866",
+      "lon": "12.2051078",
+      "address": "Helsinge, \u00d8stergade, Ammendrup, Helsinge, Gribskov Kommune, Region Hovedstaden, 3200, Danmark, European Union",
+      "lat": "56.0232404",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Sk\u00e6vinge",
+      "place_id": "10692802",
+      "lon": "12.149412",
+      "address": "Sk\u00e6vinge, Jernbanevej, Sk\u00e6vinge, Hiller\u00f8d Kommune, Region Hovedstaden, 3320, Danmark",
+      "lat": "55.9073944",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Kregme",
+      "place_id": "11506188",
+      "lon": "12.0464045",
+      "address": "Kregme, Gr\u00e6vlingeh\u00f8jvej, Dunkehuse, Breder\u00f8d, Halsn\u00e6s Kommune, Region Hovedstaden, 3310, Danmark, European Union",
+      "lat": "55.9350844",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "G\u00f8rl\u00f8se",
+      "place_id": "1033486",
+      "lon": "12.202281",
+      "address": "G\u00f8rl\u00f8se, Stationsvej, G\u00f8rl\u00f8se, Hiller\u00f8d Kommune, Region Hovedstaden, 3330, Danmark, European Union",
+      "lat": "55.8866861",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Br\u00f8deskov",
+      "place_id": "11337143",
+      "lon": "12.2791537",
+      "address": "Br\u00f8deskov, Stationsvej, N\u00f8rre Herlev, Hiller\u00f8d Kommune, Region Hovedstaden, 3400, Danmark, European Union",
+      "lat": "55.8933819",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Gr\u00e6sted",
+      "place_id": "10430378",
+      "lon": "12.2869095",
+      "address": "Gr\u00e6sted, Gr\u00e6sted Stationsvej, Gr\u00e6sted, Gribskov Kommune, Region Hovedstaden, 3230, Danmark",
+      "lat": "56.0726962",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "\u00d8lsted",
+      "place_id": "251044",
+      "lon": "12.0733102",
+      "address": "\u00d8lsted, \u00d8lsted Stationsvej, \u00d8lsted, Halsn\u00e6s Kommune, Region Hovedstaden, 3310, Danmark",
+      "lat": "55.9231048",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Hiller\u00f8d",
+      "place_id": "19242760",
+      "lon": "12.3113945",
+      "address": "Hiller\u00f8d, Nordre Jernbanevej, Hiller\u00f8d, Hiller\u00f8d Kommune, Region Hovedstaden, 3400, Danmark, European Union",
+      "lat": "55.9276718",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Aller\u00f8d",
+      "place_id": "122263",
+      "lon": "12.356926",
+      "address": "Aller\u00f8d, Banetorvet, Aller\u00f8d, Aller\u00f8d Kommune, Region Hovedstaden, 3450, Danmark, European Union",
+      "lat": "55.8710032",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Birker\u00f8d",
+      "place_id": "2586193",
+      "lon": "12.4236518",
+      "address": "Birker\u00f8d, Tornevangsvej, Birker\u00f8d, Bistrup, Birker\u00f8d, Rudersdal Kommune, Region Hovedstaden, 3460, Danmark, European Union",
+      "lat": "55.8404339",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Helsing\u00f8r",
+      "place_id": "11616529",
+      "lon": "12.6142276",
+      "address": "Helsing\u00f8r, Jernbanevej, Helsing\u00f8r, Helsing\u00f8r Kommune, Region Hovedstaden, 300, Danmark, European Union",
+      "lat": "56.0333473",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Snekkersten",
+      "place_id": "11501349",
+      "lon": "12.5830023",
+      "address": "Snekkersten, Snekkersten Stationsvej, Snekkersten, Helsing\u00f8r Kommune, Region Hovedstaden, 3070, Danmark, European Union",
+      "lat": "56.0093257",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Fredensborg",
+      "place_id": "942722",
+      "lon": "12.4072382",
+      "address": "Fredensborg, Stationsvej, Fredensborg, Fredensborg Kommune, Region Hovedstaden, 3480, Danmark, European Union",
+      "lat": "55.9771196",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Skodsborg",
+      "place_id": "6935160",
+      "lon": "12.5717859",
+      "address": "Skodsborg, Skodsborgparken, Skodsborg, Rudersdal Kommune, Region Hovedstaden, 2942, Danmark, European Union",
+      "lat": "55.8234807",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "H\u00f8jstrup",
+      "place_id": "11462062",
+      "lon": "12.5932516",
+      "address": "H\u00f8jstrup, Nordkyststien 47, Helsing\u00f8r, Helsing\u00f8r Kommune, Region Hovedstaden, 3000, Danmark, European Union",
+      "lat": "56.0481204",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Niv\u00e5",
+      "place_id": "1080881",
+      "lon": "12.506487",
+      "address": "Niv\u00e5, Niv\u00e5 Center, Niv\u00e5, Fredensborg Kommune, Region Hovedstaden, 2990, Danmark, European Union",
+      "lat": "55.9336158",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Gr\u00f8nnehave",
+      "place_id": "10921552",
+      "lon": "12.611097",
+      "address": "Gr\u00f8nnehave, Nordlysv\u00e6nget, Helsing\u00f8r, Helsing\u00f8r Kommune, Region Hovedstaden, 300, Danmark",
+      "lat": "56.0402104",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Slotspavillionen",
+      "place_id": "10828591",
+      "lon": "12.3112442",
+      "address": "Slotspavillionen, Gammel Holmeg\u00e5rdsvej, Hiller\u00f8d, Hiller\u00f8d Kommune, Region Hovedstaden, 3400, Danmark, European Union",
+      "lat": "55.9426394",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Rungsted Kyst",
+      "place_id": "108111",
+      "lon": "12.5317385",
+      "address": "Rungsted Kyst, Vestre Stationsvej, Rungsted, H\u00f8rsholm Kommune, Region Hovedstaden, 2960, Danmark",
+      "lat": "55.8821521",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "M\u00e5rum",
+      "place_id": "11371931",
+      "lon": "12.3175331",
+      "address": "M\u00e5rum, Frederiksv\u00e6rksvej, Gribskov, Saltrup, Gribskov Kommune, Region Hovedstaden, Danmark, European Union",
+      "lat": "56.0302402",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Vedb\u00e6k",
+      "place_id": "106827",
+      "lon": "12.562409",
+      "address": "Vedb\u00e6k, Baneskellet, Vedb\u00e6k, Rudersdal Kommune, Region Hovedstaden, 2950, Danmark",
+      "lat": "55.8528036",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Esperg\u00e6rde",
+      "place_id": "106185",
+      "lon": "12.5496794",
+      "address": "Esperg\u00e6rde, Ved Stationen, Esperg\u00e6rde, Helsing\u00f8r Kommune, Region Hovedstaden, 3060, Danmark",
+      "lat": "55.9957212",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Saunte",
+      "place_id": "10428474",
+      "lon": "12.4852308",
+      "address": "Saunte, Saunte Stationsvej, Horser\u00f8d, Helsing\u00f8r Kommune, Region Hovedstaden, 3100, Danmark",
+      "lat": "56.0769915",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Firh\u00f8j",
+      "place_id": "11288371",
+      "lon": "12.3557484",
+      "address": "Firh\u00f8j, Firh\u00f8jvej, Nakkehoved, Firh\u00f8j, Gribskov Kommune, Region Hovedstaden, 3120, Danmark, European Union",
+      "lat": "56.0982578",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Dronningm\u00f8lle",
+      "place_id": "11496231",
+      "lon": "12.3876507",
+      "address": "Dronningm\u00f8lle, Dronningm\u00f8lle Stationsvej, Dronningm\u00f8lle, Gribskov Kommune, Region Hovedstaden, 3120, Danmark",
+      "lat": "56.097661",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Helleb\u00e6k",
+      "place_id": "11551628",
+      "lon": "12.5540149",
+      "address": "Helleb\u00e6k, Helleb\u00e6k Stationsvej, Helleb\u00e6k, Helsing\u00f8r Kommune, Region Hovedstaden, 3150, Danmark, European Union",
+      "lat": "56.0665297",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "\u00c5lsg\u00e5rde",
+      "place_id": "10859327",
+      "lon": "12.5380337",
+      "address": "\u00c5lsg\u00e5rde, Hallandsvej, Helleb\u00e6k, Helsing\u00f8r Kommune, Region Hovedstaden, 3140, Danmark",
+      "lat": "56.0750457",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Hornb\u00e6k",
+      "place_id": "11066650",
+      "lon": "12.4596517",
+      "address": "Hornb\u00e6k, Johannes Ewalds Vej, Hornb\u00e6k, Helsing\u00f8r Kommune, Region Hovedstaden, 3100, Danmark",
+      "lat": "56.0891807",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Helsing\u00f8r (Hornb\u00e6kbanen)",
+      "place_id": "11469760",
+      "lon": "12.6123066",
+      "address": "Helsing\u00f8r (Hornb\u00e6kbanen), Jernbanevej, Helsing\u00f8r, Helsing\u00f8r Kommune, Region Hovedstaden, 300, Danmark, European Union",
+      "lat": "56.0326588",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Helsing\u00f8r station",
+      "place_id": "16833361",
+      "lon": "12.6144289",
+      "address": "Helsing\u00f8r station, Jernbanevej, Helsing\u00f8r, Helsing\u00f8r Kommune, Region Hovedstaden, 300, Danmark, European Union",
+      "lat": "56.0334653",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Hiller\u00f8d, S-tog",
+      "place_id": "18456975",
+      "lon": "12.3112396",
+      "address": "Hiller\u00f8d, S-tog, Vibekevej, Hiller\u00f8d, Hiller\u00f8d Kommune, Region Hovedstaden, 3400, Danmark, European Union",
+      "lat": "55.9269626",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Blovstr\u00f8d Teglv\u00e6rksvej",
+      "place_id": "7209371",
+      "lon": "12.375625",
+      "address": "Blovstr\u00f8d Teglv\u00e6rksvej, Blovstr\u00f8d, Aller\u00f8d Kommune, Region Hovedstaden, 3450, Danmark, European Union",
+      "lat": "55.8583793",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Sortemosevej",
+      "place_id": "4856933",
+      "lon": "12.3828509",
+      "address": "Sortemosevej, Blovstr\u00f8d, Aller\u00f8d Kommune, Region Hovedstaden, 3450, Danmark",
+      "lat": "55.8650064",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "H\u00f8velte Trinbr\u00e6t",
+      "place_id": "2087315",
+      "lon": "12.389106",
+      "address": "H\u00f8velte Trinbr\u00e6t, 50, Hesselg\u00e5rdsvej, H\u00f8velte Kaserne, Blovstr\u00f8d, Aller\u00f8d Kommune, Region Hovedstaden, 3460, Danmark",
+      "lat": "55.8505972",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "H\u00f8je Taastrup",
+      "place_id": "10607078",
+      "lon": "12.2693144",
+      "address": "H\u00f8je Taastrup, Banestr\u00f8get, H\u00f8je Taastrup, T\u00e5strup, H\u00f8je-Taastrup Kommune, Region Hovedstaden, 2630, Danmark, European Union",
+      "lat": "55.6486826",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Stenl\u00f8se",
+      "place_id": "126491",
+      "lon": "12.1900793",
+      "address": "Stenl\u00f8se, Vestervang, Stenl\u00f8se, \u00d8lstykke-Stenl\u00f8se, Egedal Kommune, Region Hovedstaden, 3660, Danmark, European Union",
+      "lat": "55.7666851",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "\u00d8lstykke",
+      "place_id": "5357076",
+      "lon": "12.1596088",
+      "address": "\u00d8lstykke, Stationsvej, \u00d8lstykke, Skenkels\u00f8, Egedal Kommune, Region Hovedstaden, 3650, Danmark, European Union",
+      "lat": "55.795697",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Taastrup",
+      "place_id": "10935330",
+      "lon": "12.3019899",
+      "address": "Taastrup, Selsmosevej, H\u00f8je Taastrup, T\u00e5strup, H\u00f8je-Taastrup Kommune, Region Hovedstaden, 2630, Danmark",
+      "lat": "55.6524792",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Greve",
+      "place_id": "960467",
+      "lon": "12.2957136",
+      "address": "Greve, Stationsholmen, Hundige, Greve Strand, Greve Kommune, Region Sj\u00e6lland, 2670, Danmark",
+      "lat": "55.5812781",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Kildedal",
+      "place_id": "5656221",
+      "lon": "12.2866102",
+      "address": "Kildedal, Kildedalsvej, Ballerup Kommune, Region Hovedstaden, 2765, Danmark, European Union",
+      "lat": "55.7519785",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Veks\u00f8",
+      "place_id": "5545294",
+      "lon": "12.2405514",
+      "address": "Veks\u00f8, Veks\u00f8 Stationsvej, Veks\u00f8, Egedal Kommune, Region Hovedstaden, 3670, Danmark, European Union",
+      "lat": "55.7498935",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Karlslunde",
+      "place_id": "969582",
+      "lon": "12.2693802",
+      "address": "Karlslunde, Stationsager, Karlslunde, Greve Kommune, Region Sj\u00e6lland, 2690, Danmark, European Union",
+      "lat": "55.566147",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Jersie",
+      "place_id": "969640",
+      "lon": "12.2084588",
+      "address": "Jersie, Birkev\u00e6nget, Solr\u00f8d Strand, Solr\u00f8d Kommune, Region Sj\u00e6lland, 2680, Danmark",
+      "lat": "55.5206115",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Solr\u00f8d Strand",
+      "place_id": "1014198",
+      "lon": "12.2180547",
+      "address": "Solr\u00f8d Strand, Solr\u00f8d Center, Solr\u00f8d Strand, Solr\u00f8d Kommune, Region Sj\u00e6lland, 2680, Danmark",
+      "lat": "55.5332913",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Egedal Station",
+      "place_id": "5456957",
+      "lon": "12.185557",
+      "address": "Egedal Station, Dronning Dagmars Vej, Stenl\u00f8se, \u00d8lstykke-Stenl\u00f8se, Egedal Kommune, Region Hovedstaden, 3650, Danmark, European Union",
+      "lat": "55.7795755",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Roskilde Station",
+      "place_id": "11427992",
+      "lon": "12.0881936",
+      "address": "Roskilde Station, Jernbanegade, Sankt J\u00f8rgensbjerg, Himmelev, Roskilde, Roskilde Kommune, Region Sj\u00e6lland, 4000, Danmark, European Union",
+      "lat": "55.6385836",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Gadstrup Station",
+      "place_id": "123396",
+      "lon": "12.099751",
+      "address": "Gadstrup Station, Stationsvej, Gadstrup, Roskilde Kommune, Region Sj\u00e6lland, 4621, Danmark",
+      "lat": "55.5727171",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Lejre",
+      "place_id": "10915118",
+      "lon": "11.9714637",
+      "address": "Lejre, Stationsvej, Lejre, Lejre Kommune, Region Sj\u00e6lland, 4320, Danmark, European Union",
+      "lat": "55.6045375",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Viby Sj\u00e6lland Station",
+      "place_id": "15183761",
+      "lon": "12.0243896",
+      "address": "Viby Sj\u00e6lland Station, S\u00f8ndergade, Viby, Roskilde Kommune, Region Sj\u00e6lland, 4130, Danmark, European Union",
+      "lat": "55.5496941",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Trekroner",
+      "place_id": "132564",
+      "lon": "12.1319443",
+      "address": "Trekroner, Trekroner Centervej, Trekroner, Vindinge, Roskilde Kommune, Region Sj\u00e6lland, 4000, Danmark, European Union",
+      "lat": "55.6478702",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Hedehusene Station",
+      "place_id": "10638938",
+      "lon": "12.1975354",
+      "address": "Hedehusene Station, Hedesvinget, Hedehusene, H\u00f8je-Taastrup Kommune, Region Hovedstaden, 2640, Danmark, European Union",
+      "lat": "55.6485988",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Viby Sj.",
+      "place_id": "71796963",
+      "lon": "12.0244603211659",
+      "address": "Viby Sj., S\u00f8ndergade, Viby, Roskilde Kommune, Region Sj\u00e6lland, 4130, Danmark, European Union",
+      "lat": "55.5496149119771",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Vanl\u00f8se",
+      "place_id": "11462171",
+      "lon": "12.4918993",
+      "address": "Vanl\u00f8se, Frode Jakobsens Plads, Vanl\u00f8se, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2720, Danmark, European Union",
+      "lat": "55.6870893",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Ballerup",
+      "place_id": "123208",
+      "lon": "12.3587439",
+      "address": "Ballerup, Baneg\u00e5rdspladsen, Ballerup, Ballerup Kommune, Region Hovedstaden, 2750, Danmark, European Union",
+      "lat": "55.7294382",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Holte",
+      "place_id": "112142",
+      "lon": "12.4684225",
+      "address": "Holte, Vejles\u00f8vej, \u00d8ver\u00f8d, Holte, Rudersdal Kommune, Region Hovedstaden, 2830, Danmark, European Union",
+      "lat": "55.8081048",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Herlev",
+      "place_id": "4858143",
+      "lon": "12.444188",
+      "address": "Herlev, Stationsalleen, Herlevhuse, Herlev, Herlev Kommune, Region Hovedstaden, 2730, Danmark, European Union",
+      "lat": "55.718603",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Husum",
+      "place_id": "5622473",
+      "lon": "12.4633463",
+      "address": "Husum, Kongemarksvej, Husum, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2700, Danmark, European Union",
+      "lat": "55.7100502",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Bagsv\u00e6rd",
+      "place_id": "6270073",
+      "lon": "12.4545083",
+      "address": "Bagsv\u00e6rd, Godtgemt, Bagsv\u00e6rd, Gladsaxe Kommune, Region Hovedstaden, 2880, Danmark, European Union",
+      "lat": "55.7615671",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Jyllingevej",
+      "place_id": "5584922",
+      "lon": "12.4777032",
+      "address": "Jyllingevej, Islev, R\u00f8dovre, R\u00f8dovre Kommune, Region Hovedstaden, 2610, Danmark, European Union",
+      "lat": "55.6904269",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Farum",
+      "place_id": "6181502",
+      "lon": "12.37339",
+      "address": "Farum, Jernbanevej, Farum, Fures\u00f8 Kommune, Region Hovedstaden, 3520, Danmark, European Union",
+      "lat": "55.8120932",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "M\u00e5l\u00f8v",
+      "place_id": "5456870",
+      "lon": "12.3178798",
+      "address": "M\u00e5l\u00f8v, M\u00e5l\u00f8v Stationsplads, M\u00e5l\u00f8v, Ballerup Kommune, Region Hovedstaden, 2760, Danmark, European Union",
+      "lat": "55.7474936",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Steng\u00e5rden",
+      "place_id": "6215009",
+      "lon": "12.4726028",
+      "address": "Steng\u00e5rden, Gammelmosevej, Bagsv\u00e6rd, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2880, Danmark, European Union",
+      "lat": "55.7570016",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "V\u00e6rl\u00f8se",
+      "place_id": "6273067",
+      "lon": "12.3733265",
+      "address": "V\u00e6rl\u00f8se, Kollekollevej, V\u00e6rl\u00f8se, Fures\u00f8 Kommune, Region Hovedstaden, 3500, Danmark, European Union",
+      "lat": "55.7819755",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Skovlunde",
+      "place_id": "5513092",
+      "lon": "12.4025456",
+      "address": "Skovlunde, Annavej, Skovlunde, Ballerup Kommune, Region Hovedstaden, 2740, Danmark, European Union",
+      "lat": "55.7230426",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Malmparken",
+      "place_id": "11787179",
+      "lon": "12.385845",
+      "address": "Malmparken, Skovlunde, Ballerup Kommune, Region Hovedstaden, 2740, Danmark, European Union",
+      "lat": "55.7246927",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Hareskov",
+      "place_id": "6218124",
+      "lon": "12.4073438",
+      "address": "Hareskov, Stationsvej, Store Hareskov, Hareskovby, Fures\u00f8 Kommune, Region Hovedstaden, 3500, Danmark, European Union",
+      "lat": "55.7655232",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Islev",
+      "place_id": "5540136",
+      "lon": "12.4693454",
+      "address": "Islev, Slotsherrensvej, Husum, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2700, Danmark, European Union",
+      "lat": "55.6993856",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Sorgenfri",
+      "place_id": "126587",
+      "lon": "12.4841781",
+      "address": "Sorgenfri, I.H. Mundts Vej, Virum, Lyngby-Taarb\u00e6k Kommune, Region Hovedstaden, 2830, Danmark, European Union",
+      "lat": "55.7808666",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Virum",
+      "place_id": "126577",
+      "lon": "12.4729412",
+      "address": "Virum, Gr\u00f8nnevej, Virum, Lyngby-Taarb\u00e6k Kommune, Region Hovedstaden, 2830, Danmark",
+      "lat": "55.79615",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Skovbrynet",
+      "place_id": "6273094",
+      "lon": "12.4339505",
+      "address": "Skovbrynet, Skovdiget, Bagsv\u00e6rd, Gladsaxe Kommune, Region Hovedstaden, 2880, Danmark, European Union",
+      "lat": "55.7651845",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "\u00c5lholm",
+      "place_id": "6206098",
+      "lon": "12.4931899",
+      "address": "\u00c5lholm, Hj\u00f8rnelodden, Vanl\u00f8se, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2500, Danmark, European Union",
+      "lat": "55.6720804",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "KB Hallen",
+      "place_id": "6410703",
+      "lon": "12.4923469",
+      "address": "KB Hallen, 163A, Peter Bangs Vej, Frederiksberg Kommune, Region Hovedstaden, 2000, Danmark, European Union",
+      "lat": "55.6777166",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Baneg\u00e5rdspladsen",
+      "place_id": "7277110",
+      "lon": "12.3581017",
+      "address": "Baneg\u00e5rdspladsen, Ballerup, Ballerup Kommune, Region Hovedstaden, 2750, Danmark, European Union",
+      "lat": "55.7298617",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Lyngby",
+      "place_id": "126576",
+      "lon": "12.5027537",
+      "address": "Lyngby, Lyngby Omfartsvej, Kongens Lyngby, Lyngby-Taarb\u00e6k Kommune, Region Hovedstaden, DK-2800, Danmark, European Union",
+      "lat": "55.7681098",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "J\u00e6gersborg",
+      "place_id": "126518",
+      "lon": "12.521749",
+      "address": "J\u00e6gersborg, Helsing\u00f8rmotorvejen, Vangede, J\u00e6gersborg, Gentofte Kommune, Region Hovedstaden, 2820, Danmark, European Union",
+      "lat": "55.7614822",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Buddinge",
+      "place_id": "4858166",
+      "lon": "12.4943516",
+      "address": "Buddinge, Buddingevej, S\u00f8borg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark, European Union",
+      "lat": "55.7471187",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Charlottenlund",
+      "place_id": "125225",
+      "lon": "12.5723808",
+      "address": "Charlottenlund, Charlottenlund Stationsplads, Charlottenlund, Klampenborg, Gentofte Kommune, Region Hovedstaden, 2920, Danmark, European Union",
+      "lat": "55.7517374",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Gentofte",
+      "place_id": "6109532",
+      "lon": "12.5421139",
+      "address": "Gentofte, Platform 2, Dysseg\u00e5rd, Gentofte, Gentofte Kommune, Region Hovedstaden, 2820, Danmark, European Union",
+      "lat": "55.7532806",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Kildebakke",
+      "place_id": "5973295",
+      "lon": "12.5075555",
+      "address": "Kildebakke, Solnavej, S\u00f8borg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark, European Union",
+      "lat": "55.7448266",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "J\u00e6gersborg - N\u00e6rumbanen",
+      "place_id": "153733",
+      "lon": "12.5218361",
+      "address": "J\u00e6gersborg - N\u00e6rumbanen, Helsing\u00f8rmotorvejen, Vangede, J\u00e6gersborg, Gentofte Kommune, Region Hovedstaden, 2820, Danmark, European Union",
+      "lat": "55.7617426",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "N\u00f8rgaardsvej",
+      "place_id": "146385",
+      "lon": "12.5133663",
+      "address": "N\u00f8rgaardsvej, Kongens Lyngby, Lyngby-Taarb\u00e6k Kommune, Region Hovedstaden, 2800, Danmark, European Union",
+      "lat": "55.7704247",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Lyngby Lokal",
+      "place_id": "153745",
+      "lon": "12.5060442",
+      "address": "Lyngby Lokal, Tofteb\u00e6ksvej, Kongens Lyngby, Lyngby-Taarb\u00e6k Kommune, Region Hovedstaden, 2800, Danmark, European Union",
+      "lat": "55.7738913",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Ravnholm",
+      "place_id": "154385",
+      "lon": "12.5200393",
+      "address": "Ravnholm, Nym\u00f8llevej, Kongens Lyngby, Lyngby-Taarb\u00e6k Kommune, Region Hovedstaden, 2850, Danmark, European Union",
+      "lat": "55.8021858",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "\u00d8rholm",
+      "place_id": "153761",
+      "lon": "12.5098684",
+      "address": "\u00d8rholm, Nym\u00f8llevej, Kongens Lyngby, Lyngby-Taarb\u00e6k Kommune, Region Hovedstaden, 2800, Danmark, European Union",
+      "lat": "55.7997206",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Fuglevad",
+      "place_id": "147118",
+      "lon": "12.4973563",
+      "address": "Fuglevad, Skovbrynet, Kongens Lyngby, Lyngby-Taarb\u00e6k Kommune, Region Hovedstaden, 2800, Danmark, European Union",
+      "lat": "55.785042",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Brede",
+      "place_id": "153757",
+      "lon": "12.5008937",
+      "address": "Brede, Lystoftevej, Kongens Lyngby, Lyngby-Taarb\u00e6k Kommune, Region Hovedstaden, 2800, Danmark, European Union",
+      "lat": "55.7936259",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Lyngby Lokal",
+      "place_id": "153924",
+      "lon": "12.5050024",
+      "address": "Lyngby Lokal, Toftevang, Kongens Lyngby, Lyngby-Taarb\u00e6k Kommune, Region Hovedstaden, 2800, Danmark, European Union",
+      "lat": "55.7739383",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Helsing\u00f8rmotorvejen",
+      "place_id": "6108991",
+      "lon": "12.5281345",
+      "address": "Helsing\u00f8rmotorvejen, S\u00f8ller\u00f8d, N\u00e6rum, Rudersdal Kommune, Region Hovedstaden, 2850, Danmark, European Union",
+      "lat": "55.8141703",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Klampenborg",
+      "place_id": "125173",
+      "lon": "12.5881986",
+      "address": "Klampenborg, Bellevuevej, Ordrup, Gentofte Kommune, Region Hovedstaden, 2930, Danmark, European Union",
+      "lat": "55.7770884",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "K\u00f8benhavns Hovedbaneg\u00e5rd",
+      "place_id": "61855949",
+      "lon": "12.5648549741289",
+      "address": "K\u00f8benhavns Hovedbaneg\u00e5rd, Baneg\u00e5rdspladsen, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1570, Danmark, European Union",
+      "lat": "55.67276375",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "N\u00f8rrebro",
+      "place_id": "5899449",
+      "lon": "12.5377433",
+      "address": "N\u00f8rrebro, N\u00f8rrebrogade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2400, Danmark, European Union",
+      "lat": "55.7005982",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Frederiksberg",
+      "place_id": "118144",
+      "lon": "12.5328129",
+      "address": "Frederiksberg, Solbjergvej, Metro Construction Site, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1861, Danmark, European Union",
+      "lat": "55.6811887",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Flintholm",
+      "place_id": "6316618",
+      "lon": "12.4989285",
+      "address": "Flintholm, Stig Lommers Plads, Frederiksberg Kommune, Region Hovedstaden, 2720, Danmark, European Union",
+      "lat": "55.685706",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Lindevang",
+      "place_id": "13985375",
+      "lon": "12.51288",
+      "address": "Lindevang, C.T. Barfoeds Vej, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 2000, Danmark, European Union",
+      "lat": "55.683512",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Hellerup",
+      "place_id": "6109416",
+      "lon": "12.567041",
+      "address": "Hellerup, Ryvangs Alle, Charlottenlund, Hellerup, Gentofte Kommune, Region Hovedstaden, 2900, Danmark, European Union",
+      "lat": "55.7304951",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Vesterport",
+      "place_id": "5654715",
+      "lon": "12.56241",
+      "address": "Vesterport, Ved Vesterport, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1612, Danmark, European Union",
+      "lat": "55.675817",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Svanem\u00f8llen",
+      "place_id": "5569912",
+      "lon": "12.5789219",
+      "address": "Svanem\u00f8llen, Ved Sporsl\u00f8jfen, \u00d8sterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2100, Danmark, European Union",
+      "lat": "55.7155176",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Gr\u00f8ndal",
+      "place_id": "6232047",
+      "lon": "12.5154647",
+      "address": "Gr\u00f8ndal, Gr\u00f8ndals Parkvej, Br\u00f8nsh\u00f8j, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2000, Danmark, European Union",
+      "lat": "55.690587",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Ryparken",
+      "place_id": "5655386",
+      "lon": "12.5595411",
+      "address": "Ryparken, Lyngbyvej, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2900, Danmark, European Union",
+      "lat": "55.7153898",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Langgade",
+      "place_id": "11487402",
+      "lon": "12.5040621",
+      "address": "Langgade, Vilhelm Tops\u00f8es Vej, Vanl\u00f8se, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2500, Danmark, European Union",
+      "lat": "55.6674424",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Bispebjerg",
+      "place_id": "120443",
+      "lon": "12.5414778",
+      "address": "Bispebjerg, Tagensvej, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.7061819",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Emdrup",
+      "place_id": "6803312",
+      "lon": "12.5412247",
+      "address": "Emdrup, Banebrinken, Emdrup, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2870, Danmark, European Union",
+      "lat": "55.7203954",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Peter Bangs Vej",
+      "place_id": "11520246",
+      "lon": "12.5036276",
+      "address": "Peter Bangs Vej, Glahns Alle, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 2000, Danmark, European Union",
+      "lat": "55.6780361",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Bernstorffsvej",
+      "place_id": "126566",
+      "lon": "12.5574861",
+      "address": "Bernstorffsvej, Traneg\u00e5rdsvej, SwimOuts Butik, Charlottenlund, Gentofte, Gentofte Kommune, Region Hovedstaden, 2900, Danmark, European Union",
+      "lat": "55.7429979",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Vangede",
+      "place_id": "6106009",
+      "lon": "12.5236043",
+      "address": "Vangede, Vangedevej, Vangede, J\u00e6gersborg, Gentofte Kommune, Region Hovedstaden, 2870, Danmark, European Union",
+      "lat": "55.7394654",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Fuglebakken",
+      "place_id": "6396837",
+      "lon": "12.5274861",
+      "address": "Fuglebakken, Borups All\u00e9, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2400, Danmark, European Union",
+      "lat": "55.6954199",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Dysseg\u00e5rd",
+      "place_id": "5780428",
+      "lon": "12.5360182",
+      "address": "Dysseg\u00e5rd, Dysseg\u00e5rdsvej, Dysseg\u00e5rd, Gentofte, Gentofte Kommune, Region Hovedstaden, 2870, Danmark, European Union",
+      "lat": "55.7323332",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Kongens Nytorv",
+      "place_id": "116979",
+      "lon": "12.5850382",
+      "address": "Kongens Nytorv, Lille Kongensgade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1100, Danmark, European Union",
+      "lat": "55.6795023",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Fasanvej",
+      "place_id": "122524",
+      "lon": "12.5230103",
+      "address": "Fasanvej, Nordre Fasanvej, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 2000, Danmark, European Union",
+      "lat": "55.6816922",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Forum",
+      "place_id": "117501",
+      "lon": "12.5524491",
+      "address": "Forum, Rosen\u00f8rns Alle, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1925, Danmark, European Union",
+      "lat": "55.6818478",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Kilevej",
+      "place_id": "122353",
+      "lon": "12.5242125",
+      "address": "Kilevej, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 2000, Danmark, European Union",
+      "lat": "55.6814577",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "\u00d8sterport",
+      "place_id": "5570889",
+      "lon": "12.5878627",
+      "address": "\u00d8sterport, \u00d8stbanegade, Nyholm, Frederiksstaden, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1328, Danmark, European Union",
+      "lat": "55.6928227",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Nordhavn",
+      "place_id": "5538912",
+      "lon": "12.5907068",
+      "address": "Nordhavn, \u00d8stbanegade, \u00d8sterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1328, Danmark, European Union",
+      "lat": "55.7056534",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Christianshavn",
+      "place_id": "117618",
+      "lon": "12.5911573",
+      "address": "Christianshavn, Christianshavns Torv, Christiania, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1400, Danmark, European Union",
+      "lat": "55.6722952",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Glostrup",
+      "place_id": "11144533",
+      "lon": "12.3984752",
+      "address": "Glostrup, Baneg\u00e5rdspladsen, Glostrup, Glostrup Kommune, Region Hovedstaden, 2600, Danmark",
+      "lat": "55.6630872",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Br\u00f8ndby Strand",
+      "place_id": "989549",
+      "lon": "12.4220407",
+      "address": "Br\u00f8ndby Strand, Br\u00f8ndby Strand Centrum, Br\u00f8ndby Strand, Br\u00f8ndby, Br\u00f8ndby Kommune, Region Hovedstaden, 2660, Danmark, European Union",
+      "lat": "55.6209774",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Hundige",
+      "place_id": "1006259",
+      "lon": "12.3333724",
+      "address": "Hundige, Parallelstien, Hundige, Greve Strand, Greve Kommune, Region Sj\u00e6lland, Danmark, European Union",
+      "lat": "55.5974595",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Hvidovre",
+      "place_id": "11118772",
+      "lon": "12.4752284",
+      "address": "Hvidovre, D\u00e6mningen, Hvidovre, Hvidovre Kommune, Region Hovedstaden, 2500, Danmark, European Union",
+      "lat": "55.6644871",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Friheden",
+      "place_id": "1005130",
+      "lon": "12.4823592",
+      "address": "Friheden, Hvidovrevej, Hvidovre, Hvidovre Kommune, Region Hovedstaden, 2650, Danmark",
+      "lat": "55.6290954",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Ish\u00f8j",
+      "place_id": "1005327",
+      "lon": "12.3578709",
+      "address": "Ish\u00f8j, Ish\u00f8j Centervej, Ish\u00f8j, Ish\u00f8j Kommune, Region Hovedstaden, 2635, Danmark, European Union",
+      "lat": "55.6133915",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "R\u00f8dovre",
+      "place_id": "120358",
+      "lon": "12.4588508",
+      "address": "R\u00f8dovre, R\u00f8dovre Stationscenter, Hvidovre Kommune, Region Hovedstaden, 2610, Danmark, European Union",
+      "lat": "55.6648048",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Dansh\u00f8j",
+      "place_id": "6397166",
+      "lon": "12.493741",
+      "address": "Dansh\u00f8j, Ole Borchs Vej, Vanl\u00f8se, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2500, Danmark, European Union",
+      "lat": "55.6642148",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Aved\u00f8re",
+      "place_id": "1017986",
+      "lon": "12.4550501",
+      "address": "Aved\u00f8re, Egevolden, Aved\u00f8re Landsby, Hvidovre Kommune, Region Hovedstaden, 2650, Danmark",
+      "lat": "55.6255437",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Br\u00f8ndby\u00f8ster",
+      "place_id": "11582196",
+      "lon": "12.441534",
+      "address": "Br\u00f8ndby\u00f8ster, Gillesager, Br\u00f8ndby\u00f8ster, Br\u00f8ndby Kommune, Region Hovedstaden, 2610, Danmark, European Union",
+      "lat": "55.6649499",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Vallensb\u00e6k",
+      "place_id": "1006308",
+      "lon": "12.3873211",
+      "address": "Vallensb\u00e6k, Stationsstien, Vallensb\u00e6k, Vallensb\u00e6k Kommune, Region Hovedstaden, 2665, Danmark, European Union",
+      "lat": "55.6233823",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Dybb\u00f8lsbro",
+      "place_id": "5372123",
+      "lon": "12.5594873",
+      "address": "Dybb\u00f8lsbro, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1714, Danmark, European Union",
+      "lat": "55.6651921",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Enghave",
+      "place_id": "11094798",
+      "lon": "12.5396302",
+      "address": "Enghave, S\u00f8nder Boulevard, Humleby, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1765, Danmark, European Union",
+      "lat": "55.663184",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Ny Ellebjerg",
+      "place_id": "11370077",
+      "lon": "12.5165662",
+      "address": "Ny Ellebjerg, Pilestykket, Vanl\u00f8se, Valby, K\u00f8benhavns Kommune, Region Hovedstaden, 2500, Danmark, European Union",
+      "lat": "55.6525281",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Sydhavn",
+      "place_id": "995817",
+      "lon": "12.5376279",
+      "address": "Sydhavn, Ernst Kapers Vej, Humleby, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2450, Danmark, European Union",
+      "lat": "55.6548907",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Sj\u00e6l\u00f8r",
+      "place_id": "1017995",
+      "lon": "12.5267026",
+      "address": "Sj\u00e6l\u00f8r, Sj\u00e6l\u00f8r Boulevard, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2450, Danmark, European Union",
+      "lat": "55.6515135",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Vigerslev All\u00e9",
+      "place_id": "6232280",
+      "lon": "12.4992529",
+      "address": "Vigerslev All\u00e9, Vanl\u00f8se, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2500, Danmark, European Union",
+      "lat": "55.6596965",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "\u00c5marken",
+      "place_id": "989560",
+      "lon": "12.4999259",
+      "address": "\u00c5marken, Beringg\u00e5rdsvej, Hvidovre, Hvidovre Kommune, Region Hovedstaden, 2500, Danmark, European Union",
+      "lat": "55.6398008",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Amagerbro",
+      "place_id": "123522",
+      "lon": "12.6029115",
+      "address": "Amagerbro, Amagerbro Torv, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1426, Danmark",
+      "lat": "55.6633444",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Lergravsparken",
+      "place_id": "123984",
+      "lon": "12.6168318",
+      "address": "Lergravsparken, Lergravsvej, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2300, Danmark, European Union",
+      "lat": "55.6621716",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "Lufthavnen",
+      "place_id": "19000228",
+      "lon": "12.6492219",
+      "address": "Lufthavnen, \u00d8resundsmotorvejen, K\u00f8benhavn, Region Hovedstaden, 2770, Danmark, European Union",
+      "lat": "55.6309064",
+      "type": "station",
+      "class": "railway"
+   },
+   {
+      "name": "T\u00e5rnby",
+      "place_id": "11762465",
+      "lon": "12.6015731",
+      "address": "T\u00e5rnby, \u00d8resundsmotorvejen, T\u00e5rnby, T\u00e5rnby Kommune, Region Hovedstaden, 2770, Danmark, European Union",
+      "lat": "55.6297979",
+      "type": "station",
+      "class": "railway"
+   }
+]

@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+{% block title %}Index{% endblock %}
+{% block lessFilename %}main{% endblock %}
+{% block jsFilename %}main-page.js{% endblock %}
+{% block content %}
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse"
+                    data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
+                    class="icon-bar"></span><span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">Social Health Observatory</a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Import/Export <span
+                            class="caret"></span></a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li><a id="action-export-config" href="#">Export configuration file</a></li>
+                        <li><a id="action-import-config" href="#">Import configuration file</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid">
+    <div id="control-panel">
+        <ul id="cp-header">
+            <li class="active" data-bind="click: showLayersPanel, css: {active: currentSection()==='layers'}">Layers
+            </li>
+            <li data-bind="click: showDataProvidersPanel, css: {active: currentSection()==='datasets'}">Datasets</li>
+        </ul>
+        <div style="clear:both"></div>
+        <!-- ko with: currentPanel() -->
+        <div id="cp-body" data-bind="template: templateName"></div>
+        <!-- /ko -->
+    </div>
+
+    <div id="main-content">
+        <div id="map"></div>
+        <div id="map-extra"></div>
+    </div>
+</div>
+{% endblock %}

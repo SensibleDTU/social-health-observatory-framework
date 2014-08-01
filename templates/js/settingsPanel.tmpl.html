@@ -1,0 +1,25 @@
+<div class="settings-panel">
+    <div class="header">
+        <div class="btn back-icon" data-bind="click: $root.goBackFromSettings, clickBubble: false">
+            <i class="fa fa-lg fa-chevron-left"></i>
+        </div>
+        <span data-bind="text: currentViewModel().title"></span>
+
+        <div class="settings-icon">
+            <i class="fa fa-lg fa-gear"></i>
+        </div>
+    </div>
+
+    <div id="cp-body" class="settings-content">
+        <!-- ko if:currentLayer.hasSettings-->
+        <!-- ko with: currentViewModel() -->
+        <div data-bind="template: {name: templateName}"></div>
+        <!-- /ko -->
+        <!-- /ko-->
+
+        <!-- ko if:currentLayer.hasTimeControl -->
+        <div data-bind="if: currentLayer.hasTimeSeries, timeControl: currentTimeControlModel"></div>
+        <!-- /ko-->
+    </div>
+
+</div>

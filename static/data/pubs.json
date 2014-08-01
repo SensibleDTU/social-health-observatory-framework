@@ -1,0 +1,2783 @@
+[
+   {
+      "name": "Frederik 7-tal",
+      "place_id": "890949",
+      "lon": "11.9819708",
+      "address": "Frederik 7-tal, Hovedgaden, Neder Dr\u00e5by, J\u00e6gerspris, Frederikssund Kommune, Region Hovedstaden, 3630, Danmark, European Union",
+      "lat": "55.8549626",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Hong Kong Bodega",
+      "place_id": "16821687",
+      "lon": "12.3210308",
+      "address": "Hong Kong Bodega, Skansevej, Hiller\u00f8d, Hiller\u00f8d Kommune, Region Hovedstaden, 3400, Danmark, European Union",
+      "lat": "55.9332564",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Pillen",
+      "place_id": "14776224",
+      "lon": "12.3536845",
+      "address": "Pillen, 12D, M.D. Madsens Vej, Aller\u00f8d, Aller\u00f8d Kommune, Region Hovedstaden, 3450, Danmark, European Union",
+      "lat": "55.8701057",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Klubhus Borsholm SI",
+      "place_id": "72128817",
+      "lon": "12.4858257189488",
+      "address": "Klubhus Borsholm SI, Skibstrupvej, Horser\u00f8d, Helsing\u00f8r Kommune, Region Hovedstaden, 3140, Danmark, European Union",
+      "lat": "56.0645495",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Hr. Bertrams Bar",
+      "place_id": "177070",
+      "lon": "12.4567895",
+      "address": "Hr. Bertrams Bar, Havnevej, Hornb\u00e6k, Helsing\u00f8r Kommune, Region Hovedstaden, 3100, Danmark, European Union",
+      "lat": "56.0905097",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Huler\u00f8d Kro",
+      "place_id": "11089485",
+      "lon": "12.3773916",
+      "address": "Huler\u00f8d Kro, Huler\u00f8dvej, Munkerup, Gribskov Kommune, Region Hovedstaden, 3120, Danmark",
+      "lat": "56.10245",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Bodega Teglsk\u00e6gget",
+      "place_id": "4396788",
+      "lon": "12.4918895",
+      "address": "Bodega Teglsk\u00e6gget, Valby Langgade, Vanl\u00f8se, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2500, Danmark, European Union",
+      "lat": "55.6696407",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Cafe Aalholm Bodega",
+      "place_id": "8893664",
+      "lon": "12.4883649",
+      "address": "Cafe Aalholm Bodega, 167, Roskildevej, Vanl\u00f8se, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2720, Danmark, European Union",
+      "lat": "55.6723748",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Snoopy Bodega",
+      "place_id": "5418833",
+      "lon": "12.4914551",
+      "address": "Snoopy Bodega, Linde All\u00e9, Vanl\u00f8se, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2720, Danmark, European Union",
+      "lat": "55.6826112",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Cafe Lulle",
+      "place_id": "18086723",
+      "lon": "12.3875346",
+      "address": "Cafe Lulle, Diget, Ejby, Glostrup, Glostrup Kommune, Region Hovedstaden, 2600, Danmark, European Union",
+      "lat": "55.6672635",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Falladen",
+      "place_id": "5561162",
+      "lon": "12.477379",
+      "address": "Falladen, Haraldslundvej, Bagsv\u00e6rd, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2880, Danmark, European Union",
+      "lat": "55.7627755",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Bodega 100",
+      "place_id": "17213383",
+      "lon": "12.443069",
+      "address": "Bodega 100, Herlev Hovedgade, Herlevhuse, Herlev, Herlev Kommune, Region Hovedstaden, 2730, Danmark, European Union",
+      "lat": "55.722689",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Hjorten Bodega",
+      "place_id": "4934603",
+      "lon": "12.42286",
+      "address": "Hjorten Bodega, Perikumhaven, Herlev, Herlev Kommune, Region Hovedstaden, 2730, Danmark, European Union",
+      "lat": "55.7427234",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Center Pub",
+      "place_id": "7707433",
+      "lon": "12.3733729",
+      "address": "Center Pub, Bymidten, V\u00e6rl\u00f8se, Fures\u00f8 Kommune, Region Hovedstaden, 3500, Danmark, European Union",
+      "lat": "55.782878",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "S\u00f8moseparken",
+      "place_id": "11970605",
+      "lon": "12.4002235",
+      "address": "S\u00f8moseparken, Skovlunde, Ballerup Kommune, Region Hovedstaden, 2740, Danmark, European Union",
+      "lat": "55.7303913",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Manhattan",
+      "place_id": "17292632",
+      "lon": "12.6130058",
+      "address": "Manhattan, Jernbanevej, Helsing\u00f8r, Helsing\u00f8r Kommune, Region Hovedstaden, 300, Danmark, European Union",
+      "lat": "56.0333085",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Submarina",
+      "place_id": "16788220",
+      "lon": "12.5689162",
+      "address": "Submarina, Olesvej, Vedb\u00e6k, Rudersdal Kommune, Region Hovedstaden, 2942, Danmark, European Union",
+      "lat": "55.8502075",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Cafe Poppen",
+      "place_id": "18761213",
+      "lon": "12.5447742",
+      "address": "Cafe Poppen, \u00d8ster Torv, Esperg\u00e6rde Centret, Esperg\u00e6rde, Helsing\u00f8r Kommune, Region Hovedstaden, 3060, Danmark",
+      "lat": "55.9944344",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Kardusen Bodega",
+      "place_id": "17034071",
+      "lon": "12.5719133",
+      "address": "Kardusen Bodega, Pr\u00f8vestensvej, Snekkersten, Helsing\u00f8r Kommune, Region Hovedstaden, 3070, Danmark, European Union",
+      "lat": "56.0200276",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Irish Pub Muligan's",
+      "place_id": "7272664",
+      "lon": "12.0894462",
+      "address": "Irish Pub Muligan's, Algade, Himmelev, Roskilde, Roskilde Kommune, Region Sj\u00e6lland, 4000, Danmark, European Union",
+      "lat": "55.6404507",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Gustav Wied's Vinstue",
+      "place_id": "7728391",
+      "lon": "12.0851972",
+      "address": "Gustav Wied's Vinstue, Hersegade, Sankt J\u00f8rgensbjerg, Himmelev, Roskilde, Roskilde Kommune, Region Sj\u00e6lland, 4000, Danmark, European Union",
+      "lat": "55.6393606",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Cafe Polzter",
+      "place_id": "16552872",
+      "lon": "12.0760328",
+      "address": "Cafe Polzter, Skomagergade, Sankt J\u00f8rgensbjerg, Himmelev, Roskilde, Roskilde Kommune, Region Sj\u00e6lland, 4000, Danmark, European Union",
+      "lat": "55.6407333",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e8 Promenaden",
+      "place_id": "7122662",
+      "lon": "12.0883952",
+      "address": "Caf\u00e8 Promenaden, Store Gr\u00e5br\u00f8drestr\u00e6de, Sankt J\u00f8rgensbjerg, Himmelev, Roskilde, Roskilde Kommune, Region Sj\u00e6lland, 4000, Danmark, European Union",
+      "lat": "55.6402987",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Rosie's",
+      "place_id": "18044417",
+      "lon": "12.0765653",
+      "address": "Rosie's, 42, Skomagergade, Sankt J\u00f8rgensbjerg, Himmelev, Roskilde, Roskilde Kommune, Region Sj\u00e6lland, 4000, Danmark, European Union",
+      "lat": "55.6407838",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "George's Bodega",
+      "place_id": "7319502",
+      "lon": "12.0891066",
+      "address": "George's Bodega, Hestetorvet, Sankt J\u00f8rgensbjerg, Himmelev, Roskilde, Roskilde Kommune, Region Sj\u00e6lland, 4000, Danmark, European Union",
+      "lat": "55.6396544",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "City Pub",
+      "place_id": "1418648",
+      "lon": "12.2990088",
+      "address": "City Pub, Taastrup Hovedgade, H\u00f8je Taastrup, T\u00e5strup, H\u00f8je-Taastrup Kommune, Region Hovedstaden, 2630, Danmark, European Union",
+      "lat": "55.6474455",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "White Horse",
+      "place_id": "1420201",
+      "lon": "12.1981215",
+      "address": "White Horse, Hovedgaden, Hedehusene, H\u00f8je-Taastrup Kommune, Region Hovedstaden, 2640, Danmark",
+      "lat": "55.6492676",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Pub 40",
+      "place_id": "1473789",
+      "lon": "12.1960657",
+      "address": "Pub 40, Vesterk\u00f8b, Hedehusene, H\u00f8je-Taastrup Kommune, Region Hovedstaden, 2640, Danmark, European Union",
+      "lat": "55.6537185",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Svogerslev Hovedgade",
+      "place_id": "13667715",
+      "lon": "12.0163969",
+      "address": "Svogerslev Hovedgade, Svogerslev, Roskilde Kommune, Region Sj\u00e6lland, Danmark, European Union",
+      "lat": "55.6335843",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Templet",
+      "place_id": "5966111",
+      "lon": "12.49961",
+      "address": "Templet, Jernbanebakken, Kongens Lyngby, Lyngby-Taarb\u00e6k Kommune, Region Hovedstaden, DK-2800, Danmark, European Union",
+      "lat": "55.7701386",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Hegnet",
+      "place_id": "1582183",
+      "lon": "12.5171474",
+      "address": "Hegnet, \u00d8rsteds Plads, Kongens Lyngby, Lyngby-Taarb\u00e6k Kommune, Region Hovedstaden, 2800, Danmark, European Union",
+      "lat": "55.78248",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "K\u00e6lderbaren",
+      "place_id": "1700073",
+      "lon": "12.5255174",
+      "address": "K\u00e6lderbaren, Studentertorvet, Kongens Lyngby, Lyngby-Taarb\u00e6k Kommune, Region Hovedstaden, 2800, Danmark, European Union",
+      "lat": "55.7864884",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Kampsaxbaren",
+      "place_id": "1677281",
+      "lon": "12.5238848",
+      "address": "Kampsaxbaren, Kollegiebakken, Kongens Lyngby, Lyngby-Taarb\u00e6k Kommune, Region Hovedstaden, 2800, Danmark, European Union",
+      "lat": "55.7830143",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Maskinen",
+      "place_id": "17129842",
+      "lon": "12.5162581",
+      "address": "Maskinen, Akademivej, Kongens Lyngby, Lyngby-Taarb\u00e6k Kommune, Region Hovedstaden, 2800, Danmark, European Union",
+      "lat": "55.780312",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Diamanten",
+      "place_id": "12603269",
+      "lon": "12.5211734",
+      "address": "Diamanten, Vagn Aa. Jeppesens Vej, Kongens Lyngby, Lyngby-Taarb\u00e6k Kommune, Region Hovedstaden, 2800, Danmark, European Union",
+      "lat": "55.7827068",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Diagonalen",
+      "place_id": "18048476",
+      "lon": "12.5256536",
+      "address": "Diagonalen, Bygningstorvet, Kongens Lyngby, Lyngby-Taarb\u00e6k Kommune, Region Hovedstaden, 2800, Danmark, European Union",
+      "lat": "55.7890666",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Pauls \u00d8lstue",
+      "place_id": "11089667",
+      "lon": "12.5144467",
+      "address": "Pauls \u00d8lstue, Bergs\u00f8ekollegiet, S\u00f8ller\u00f8d, Gammel Holte, Rudersdal Kommune, Region Hovedstaden, 2850, Danmark, European Union",
+      "lat": "55.810227",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Bergs",
+      "place_id": "5101618",
+      "lon": "12.4969562",
+      "address": "Bergs, Frederikssundsvej, Br\u00f8nsh\u00f8j, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2700, Danmark, European Union",
+      "lat": "55.7049562",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Bar",
+      "place_id": "18166807",
+      "lon": "12.5172667",
+      "address": "Bar, Dortheavej, Utterslev, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2400, Danmark, European Union",
+      "lat": "55.7100251",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e9 Under Hylden",
+      "place_id": "12292753",
+      "lon": "12.5358175",
+      "address": "Caf\u00e9 Under Hylden, 212, Nordre Fasanvej, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.6979745",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Martini",
+      "place_id": "13285940",
+      "lon": "12.5210158",
+      "address": "Martini, Borups All\u00e9, Utterslev, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2400, Danmark, European Union",
+      "lat": "55.7002208",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Br\u00f8nsh\u00f8j bodega",
+      "place_id": "5313121",
+      "lon": "12.4940637",
+      "address": "Br\u00f8nsh\u00f8j bodega, Frederikssundsvej, Br\u00f8nsh\u00f8j, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2700, Danmark, European Union",
+      "lat": "55.70499",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Gerts vinstue",
+      "place_id": "5163946",
+      "lon": "12.4974368",
+      "address": "Gerts vinstue, Frederikssundsvej, Br\u00f8nsh\u00f8j, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2700, Danmark, European Union",
+      "lat": "55.7048933",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Indskudspubben",
+      "place_id": "12844337",
+      "lon": "12.5347136",
+      "address": "Indskudspubben, Borups All\u00e9, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1959, Danmark, European Union",
+      "lat": "55.692947",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "London Pub",
+      "place_id": "947032",
+      "lon": "12.5382687",
+      "address": "London Pub, Godth\u00e5bsvej, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1951, Danmark, European Union",
+      "lat": "55.6854632",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Det Gamle Posthus",
+      "place_id": "12512349",
+      "lon": "12.5321763",
+      "address": "Det Gamle Posthus, Borups All\u00e9, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1951, Danmark, European Union",
+      "lat": "55.6936967",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Cafe Svejk",
+      "place_id": "929438",
+      "lon": "12.5274752",
+      "address": "Cafe Svejk, 31, Smallegade, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 2000, Danmark, European Union",
+      "lat": "55.6789275",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "All\u00e9enberg",
+      "place_id": "902779",
+      "lon": "12.5327101",
+      "address": "All\u00e9enberg, 4, Allegade, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 2000, Danmark, European Union",
+      "lat": "55.675324",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Vint\u00f8nden",
+      "place_id": "12157941",
+      "lon": "12.5277935",
+      "address": "Vint\u00f8nden, Godth\u00e5bsvej, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1951, Danmark, European Union",
+      "lat": "55.6876707",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Western Saloon / H.H. Ranch",
+      "place_id": "8125153",
+      "lon": "12.5313663",
+      "address": "Western Saloon / H.H. Ranch, 10, Smallegade, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 2000, Danmark, European Union",
+      "lat": "55.6787761",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Cafe Intime",
+      "place_id": "916065",
+      "lon": "12.5322352",
+      "address": "Cafe Intime, Allegade, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1854, Danmark, European Union",
+      "lat": "55.6771958",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Hyggestuen",
+      "place_id": "341160",
+      "lon": "12.528802",
+      "address": "Hyggestuen, Falstersvej, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1951, Danmark, European Union",
+      "lat": "55.6854315",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Pub Fluesm\u00e6kkeren",
+      "place_id": "1755340",
+      "lon": "12.5370761",
+      "address": "Pub Fluesm\u00e6kkeren, 2, Frimestervej, Emdrup, Bispebjerg, K\u00f8benhavns Kommune, Region Hovedstaden, 2400, Danmark",
+      "lat": "55.7065368",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Cafe Lammet",
+      "place_id": "19120226",
+      "lon": "12.5036596",
+      "address": "Cafe Lammet, 80, Roskildevej, Frederiksberg Kommune, Region Hovedstaden, 2000, Danmark, European Union",
+      "lat": "55.6724284",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Domdal Bodega",
+      "place_id": "19536138",
+      "lon": "12.5003303",
+      "address": "Domdal Bodega, Peter Bangs Vej, Frederiksberg Kommune, Region Hovedstaden, 2500, Danmark, European Union",
+      "lat": "55.6784288",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Reb\u00e6k Bodega",
+      "place_id": "18391970",
+      "lon": "12.4633672",
+      "address": "Reb\u00e6k Bodega, Kl\u00f8verprisvej, Hvidovre, Hvidovre Kommune, Region Hovedstaden, 2650, Danmark, European Union",
+      "lat": "55.6614198",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Hovsa Bodega",
+      "place_id": "15385694",
+      "lon": "12.4099596",
+      "address": "Hovsa Bodega, Seminarievej, Br\u00f8ndbyvester, Br\u00f8ndby, Br\u00f8ndby Kommune, Region Hovedstaden, 2605, Danmark, European Union",
+      "lat": "55.6452589",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Glostrup Bodega",
+      "place_id": "16995491",
+      "lon": "12.3960347",
+      "address": "Glostrup Bodega, Hartmannstien, Glostrup, Glostrup Kommune, Region Hovedstaden, 2600, Danmark",
+      "lat": "55.6652185",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Scotch Pub",
+      "place_id": "16443683",
+      "lon": "12.4054086",
+      "address": "Scotch Pub, Br\u00f8ndbyvestervej, Glostrup, Glostrup Kommune, Region Hovedstaden, 2605, Danmark, European Union",
+      "lat": "55.6598642",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Tequila Bodega",
+      "place_id": "16041412",
+      "lon": "12.4386238",
+      "address": "Tequila Bodega, 78, Br\u00f8ndby\u00f8ster Torv, Br\u00f8ndby\u00f8ster, Br\u00f8ndby, Br\u00f8ndby Kommune, Region Hovedstaden, 2605, Danmark",
+      "lat": "55.6629578",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Urban Beach Bar",
+      "place_id": "18629230",
+      "lon": "12.5348278",
+      "address": "Urban Beach Bar, Vigerslev All\u00e9, Humleby, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1748, Danmark, European Union",
+      "lat": "55.6636186",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Bryggerhesten",
+      "place_id": "17767914",
+      "lon": "12.5725285",
+      "address": "Bryggerhesten, J\u00e6gersborg Alle, Charlottenlund, Klampenborg, Gentofte Kommune, Region Hovedstaden, 2920, Danmark, European Union",
+      "lat": "55.753283",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e9 Sams\u00f8",
+      "place_id": "20066098",
+      "lon": "12.5645691",
+      "address": "Caf\u00e9 Sams\u00f8, Jagtvej, \u00d8sterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2100, Danmark, European Union",
+      "lat": "55.7069399",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "B\u00f8rges Bodega",
+      "place_id": "11329182",
+      "lon": "12.5609893",
+      "address": "B\u00f8rges Bodega, Lyngbyvej, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2100, Danmark, European Union",
+      "lat": "55.7103444",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Hubertus Vinstue",
+      "place_id": "14822230",
+      "lon": "12.570917",
+      "address": "Hubertus Vinstue, Jagtvej, \u00d8sterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2100, Danmark, European Union",
+      "lat": "55.7080699",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Polar Bodega",
+      "place_id": "1687808",
+      "lon": "12.5593462",
+      "address": "Polar Bodega, Rovsingsgade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2100, Danmark, European Union",
+      "lat": "55.7127889",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Kitjn",
+      "place_id": "12671488",
+      "lon": "12.5789519",
+      "address": "Kitjn, \u00c5rhusgade, \u00d8sterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2100, Danmark, European Union",
+      "lat": "55.705922",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Lyngbyvej",
+      "place_id": "19031336",
+      "lon": "12.5566894",
+      "address": "Lyngbyvej, Emdrup, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2900, Danmark, European Union",
+      "lat": "55.7176939",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Perikles Bodega",
+      "place_id": "14762453",
+      "lon": "12.5717426",
+      "address": "Perikles Bodega, Thomas Laubs Gade, \u00d8sterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2100, Danmark, European Union",
+      "lat": "55.7141075",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Scala",
+      "place_id": "19600955",
+      "lon": "12.5618824",
+      "address": "Scala, 8, Ravnsborggade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.6883097",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Tjili Pop",
+      "place_id": "6830225",
+      "lon": "12.5501433",
+      "address": "Tjili Pop, Rantzausgade, Sorte Hest, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1967, Danmark, European Union",
+      "lat": "55.6863494",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "The Barking Dog",
+      "place_id": "19361126",
+      "lon": "12.5624942",
+      "address": "The Barking Dog, 19, Sankt Hans Gade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.6901037",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Kind of Blue",
+      "place_id": "19353031",
+      "lon": "12.5624146",
+      "address": "Kind of Blue, 17, Ravnsborggade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.6891027",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Cafe Mellemrummet",
+      "place_id": "15187783",
+      "lon": "12.5618443",
+      "address": "Cafe Mellemrummet, 11, Ravnsborggade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.6886382",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Harbo Bar",
+      "place_id": "14976592",
+      "lon": "12.5594513",
+      "address": "Harbo Bar, 2D, Bl\u00e5g\u00e5rdsgade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.6876741",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Barcelona",
+      "place_id": "7333967",
+      "lon": "12.5603259",
+      "address": "Barcelona, F\u00e6lledvej, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1371, Danmark, European Union",
+      "lat": "55.689867",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Tagensborg",
+      "place_id": "16499988",
+      "lon": "12.5539607",
+      "address": "Tagensborg, Jagtvej, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2100, Danmark, European Union",
+      "lat": "55.6991498",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Kassen",
+      "place_id": "12939168",
+      "lon": "12.5603366",
+      "address": "Kassen, N\u00f8rrebrogade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1370, Danmark, European Union",
+      "lat": "55.6881137",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "gilt",
+      "place_id": "7184141",
+      "lon": "12.5479826",
+      "address": "gilt, Rantzausgade, Sorte Hest, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1967, Danmark, European Union",
+      "lat": "55.6870129",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Gef\u00e4hrlich",
+      "place_id": "7299835",
+      "lon": "12.5598039",
+      "address": "Gef\u00e4hrlich, F\u00e6lledvej, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1371, Danmark, European Union",
+      "lat": "55.6888822",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Terroiristen",
+      "place_id": "19177748",
+      "lon": "12.5427676",
+      "address": "Terroiristen, J\u00e6gersborggade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.6936711",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "DRONE",
+      "place_id": "17738560",
+      "lon": "12.5446484",
+      "address": "DRONE, 184, N\u00f8rrebrogade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.697253",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Oak Room",
+      "place_id": "1542897",
+      "lon": "12.5582375",
+      "address": "Oak Room, Birkegade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1633, Danmark, European Union",
+      "lat": "55.6906627",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Malbeck Vinoteria",
+      "place_id": "19784298",
+      "lon": "12.5584101",
+      "address": "Malbeck Vinoteria, 2, Birkegade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.6900156",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "VinBaren",
+      "place_id": "12844348",
+      "lon": "12.5444608",
+      "address": "VinBaren, Stefansgade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.6958705",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Riesen",
+      "place_id": "6883618",
+      "lon": "12.5496981",
+      "address": "Riesen, Oehlenschl\u00e6gersgade, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1640, Danmark, European Union",
+      "lat": "55.6692729",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Boutique Lize",
+      "place_id": "6842952",
+      "lon": "12.5471175",
+      "address": "Boutique Lize, 6, Enghave Plads, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1670, Danmark, European Union",
+      "lat": "55.6675905",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Pistoler & Coke",
+      "place_id": "15391686",
+      "lon": "12.5451652",
+      "address": "Pistoler & Coke, 38, Sundevedsgade, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1751, Danmark, European Union",
+      "lat": "55.6694704",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Kulby",
+      "place_id": "7045903",
+      "lon": "12.5501652",
+      "address": "Kulby, Oehlenschl\u00e6gersgade, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1640, Danmark, European Union",
+      "lat": "55.6677885",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Falernum",
+      "place_id": "1701148",
+      "lon": "12.5499992",
+      "address": "Falernum, 16, V\u00e6rnedamsvej, Frederiksberg Kommune, Region Hovedstaden, 1619, Danmark, European Union",
+      "lat": "55.6741027",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Cafe Bryggeriet",
+      "place_id": "7553997",
+      "lon": "12.5387692",
+      "address": "Cafe Bryggeriet, 73, Vesterf\u00e6lledvej, Humleby, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1765, Danmark, European Union",
+      "lat": "55.6654352",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Valby Borger Kro",
+      "place_id": "4856513",
+      "lon": "12.514473",
+      "address": "Valby Borger Kro, Lysh\u00f8jg\u00e5rdsvej, Vanl\u00f8se, Valby, K\u00f8benhavns Kommune, Region Hovedstaden, 2500, Danmark, European Union",
+      "lat": "55.663277",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Valby Kro",
+      "place_id": "18245042",
+      "lon": "12.5134178",
+      "address": "Valby Kro, Valby Tingsted, Vanl\u00f8se, Valby, K\u00f8benhavns Kommune, Region Hovedstaden, 2500, Danmark, European Union",
+      "lat": "55.6657524",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "M\u00f8lle Cafeen",
+      "place_id": "4725752",
+      "lon": "12.5171005",
+      "address": "M\u00f8lle Cafeen, M\u00f8lle All\u00e9, Humleby, Vanl\u00f8se, Valby, K\u00f8benhavns Kommune, Region Hovedstaden, 1805, Danmark, European Union",
+      "lat": "55.6653765",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e9 HP",
+      "place_id": "3992799",
+      "lon": "12.5157009",
+      "address": "Caf\u00e9 HP, Vigerslev All\u00e9, Vanl\u00f8se, Valby, K\u00f8benhavns Kommune, Region Hovedstaden, 2500, Danmark, European Union",
+      "lat": "55.661446",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Tofteg\u00e5rds Bodega",
+      "place_id": "4748463",
+      "lon": "12.5164963",
+      "address": "Tofteg\u00e5rds Bodega, M\u00f8lle All\u00e9, Vanl\u00f8se, Valby, K\u00f8benhavns Kommune, Region Hovedstaden, 1805, Danmark, European Union",
+      "lat": "55.6652831",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Giniz",
+      "place_id": "18232208",
+      "lon": "12.5176996",
+      "address": "Giniz, Valby Langgade, Humleby, Valby, K\u00f8benhavns Kommune, Region Hovedstaden, 1805, Danmark, European Union",
+      "lat": "55.6665369",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Den gyldenblonde",
+      "place_id": "18596444",
+      "lon": "12.5221189",
+      "address": "Den gyldenblonde, Vigerslev All\u00e9, Humleby, Valby, K\u00f8benhavns Kommune, Region Hovedstaden, 1805, Danmark, European Union",
+      "lat": "55.6621642",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Areena Bar",
+      "place_id": "4856397",
+      "lon": "12.5168177",
+      "address": "Areena Bar, Valby Langgade, Humleby, Valby, K\u00f8benhavns Kommune, Region Hovedstaden, 1805, Danmark, European Union",
+      "lat": "55.6665546",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Dyrehaven",
+      "place_id": "7442444",
+      "lon": "12.5495946",
+      "address": "Dyrehaven, 72, S\u00f8nder Boulevard, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1729, Danmark, European Union",
+      "lat": "55.6656274",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e9 Flisen",
+      "place_id": "4410253",
+      "lon": "12.5419505",
+      "address": "Caf\u00e9 Flisen, 77, Enghavevej, Humleby, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1766, Danmark, European Union",
+      "lat": "55.6631374",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Darling",
+      "place_id": "6883571",
+      "lon": "12.5466941",
+      "address": "Darling, Enghave Plads, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1670, Danmark, European Union",
+      "lat": "55.6668622",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e9 Lille Peter",
+      "place_id": "6738181",
+      "lon": "12.5439692",
+      "address": "Caf\u00e9 Lille Peter, S\u00f8ller\u00f8dgade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.6957911",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "N\u00f8rre Bodega",
+      "place_id": "11949062",
+      "lon": "12.5479584",
+      "address": "N\u00f8rre Bodega, Uffesgade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.6950573",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Cafe Heimdal",
+      "place_id": "15378296",
+      "lon": "12.5418456",
+      "address": "Cafe Heimdal, Heimdalsgade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.7007012",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Mucki Bar",
+      "place_id": "13149895",
+      "lon": "12.5475371",
+      "address": "Mucki Bar, Thorsgade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.6960958",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Temple Bar",
+      "place_id": "12243836",
+      "lon": "12.556587",
+      "address": "Temple Bar, N\u00f8rrebrogade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1973, Danmark, European Union",
+      "lat": "55.689562",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Cafe Runddelen",
+      "place_id": "11607383",
+      "lon": "12.5482857",
+      "address": "Cafe Runddelen, Jagtvej, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.6942411",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "\u00d8lbaren",
+      "place_id": "116663",
+      "lon": "12.557913",
+      "address": "\u00d8lbaren, 2, Elmegade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.6893482",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Props",
+      "place_id": "1475747",
+      "lon": "12.560067",
+      "address": "Props, Bl\u00e5g\u00e5rdsgade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1370, Danmark, European Union",
+      "lat": "55.6877919",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Karrusellen",
+      "place_id": "6723420",
+      "lon": "12.5449456",
+      "address": "Karrusellen, Thyrasgade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.6980011",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "BO DE GA",
+      "place_id": "4766948",
+      "lon": "12.5543688",
+      "address": "BO DE GA, Kapelvej, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1960, Danmark, European Union",
+      "lat": "55.690316",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Kattens k\u00e6lder",
+      "place_id": "7446600",
+      "lon": "12.5602698",
+      "address": "Kattens k\u00e6lder, 19, F\u00e6lledvej, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1371, Danmark, European Union",
+      "lat": "55.6897298",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Bl\u00e5g\u00e5rds Apotek",
+      "place_id": "983619",
+      "lon": "12.5580131",
+      "address": "Bl\u00e5g\u00e5rds Apotek, Bl\u00e5g\u00e5rds Plads, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1635, Danmark, European Union",
+      "lat": "55.6864086",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Esrom Kroen",
+      "place_id": "8976526",
+      "lon": "12.5408315",
+      "address": "Esrom Kroen, Esromgade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.6989276",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e9 Stefanshus",
+      "place_id": "1587754",
+      "lon": "12.5433111",
+      "address": "Caf\u00e9 Stefanshus, Nordbanegade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.6953125",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Monkey Bar",
+      "place_id": "12866553",
+      "lon": "12.5475557",
+      "address": "Monkey Bar, Jagtvej, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.6933312",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Det Gamle Sted",
+      "place_id": "6718877",
+      "lon": "12.5467477",
+      "address": "Det Gamle Sted, \u00c6girsgade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.6999384",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Det Rene Glas",
+      "place_id": "7022308",
+      "lon": "12.5545488",
+      "address": "Det Rene Glas, Peter Fabers Gade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark",
+      "lat": "55.6906895",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Cafeen Funke",
+      "place_id": "6543969",
+      "lon": "12.5614037",
+      "address": "Cafeen Funke, 2, Blegdamsvej, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.6908003",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Kapelvej",
+      "place_id": "13736221",
+      "lon": "12.5541593",
+      "address": "Kapelvej, N\u00f8rrebrogade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.690879",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e9 Viking",
+      "place_id": "125671",
+      "lon": "12.5467101",
+      "address": "Caf\u00e9 Viking, 36, \u00c6girsgade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.6996104",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Kapelvej",
+      "place_id": "13307233",
+      "lon": "12.5548781",
+      "address": "Kapelvej, N\u00f8rrebrogade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1973, Danmark, European Union",
+      "lat": "55.6902289",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e9 \u00c6gir",
+      "place_id": "6845381",
+      "lon": "12.5456215",
+      "address": "Caf\u00e9 \u00c6gir, Dagmarsgade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.69858",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Musiksmag",
+      "place_id": "10946194",
+      "lon": "12.543151",
+      "address": "Musiksmag, J\u00e6gersborggade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark, European Union",
+      "lat": "55.693112",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Broens Bodega",
+      "place_id": "4543857",
+      "lon": "12.5689637",
+      "address": "Broens Bodega, Fredensgade, \u00d8sterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1357, Danmark, European Union",
+      "lat": "55.6919359",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Femmeren Jazzv\u00e6rtshus",
+      "place_id": "20591432",
+      "lon": "12.5808134",
+      "address": "Femmeren Jazzv\u00e6rtshus, 5, Classensgade, \u00d8sterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2100, Danmark, European Union",
+      "lat": "55.6966311",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Panz\u00f3n",
+      "place_id": "4890679",
+      "lon": "12.5795186",
+      "address": "Panz\u00f3n, 6, Rosenv\u00e6ngets All\u00e9, \u00d8sterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2100, Danmark",
+      "lat": "55.6987799",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Kebabish Park",
+      "place_id": "947174",
+      "lon": "12.5771497",
+      "address": "Kebabish Park, 79, \u00d8sterbrogade, \u00d8sterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2100, Danmark, European Union",
+      "lat": "55.7039309",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Cafe Under Uret",
+      "place_id": "16933953",
+      "lon": "12.5750925",
+      "address": "Cafe Under Uret, Stockholmsgade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1352, Danmark, European Union",
+      "lat": "55.6896143",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Underwood Ink",
+      "place_id": "4630171",
+      "lon": "12.5672127",
+      "address": "Underwood Ink, Sortedam Dossering, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1357, Danmark, European Union",
+      "lat": "55.692081",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Holstein Bodega",
+      "place_id": "7470373",
+      "lon": "12.581168",
+      "address": "Holstein Bodega, Holsteinsgade, \u00d8sterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1317, Danmark",
+      "lat": "55.6986825",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Valdemar Atterdag",
+      "place_id": "20451840",
+      "lon": "12.551044",
+      "address": "Valdemar Atterdag, Kapelvej, Sorte Hest, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1960, Danmark, European Union",
+      "lat": "55.6861357",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "KarriereBar",
+      "place_id": "7012960",
+      "lon": "12.5609809",
+      "address": "KarriereBar, Fl\u00e6sketorvet, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1715, Danmark, European Union",
+      "lat": "55.6677379",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Bodega 54",
+      "place_id": "6790405",
+      "lon": "12.5565336",
+      "address": "Bodega 54, 54, Halmtorvet, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1712, Danmark, European Union",
+      "lat": "55.6687054",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Thai-Corner",
+      "place_id": "16022226",
+      "lon": "12.5576296",
+      "address": "Thai-Corner, Istedgade, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1707, Danmark, European Union",
+      "lat": "55.6705967",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "H\u00f8llmers Bar",
+      "place_id": "8756672",
+      "lon": "12.5569385",
+      "address": "H\u00f8llmers Bar, Stenosgade, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1616, Danmark, European Union",
+      "lat": "55.672966",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Wokbaren",
+      "place_id": "8016839",
+      "lon": "12.5612414",
+      "address": "Wokbaren, Abel Cathrines Gade, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1653, Danmark",
+      "lat": "55.6710055",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Freddys Bar",
+      "place_id": "7054124",
+      "lon": "12.5581758",
+      "address": "Freddys Bar, 28, Gasv\u00e6rksvej, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1716, Danmark, European Union",
+      "lat": "55.669618",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Lones Kro",
+      "place_id": "6708613",
+      "lon": "12.5583757",
+      "address": "Lones Kro, 33, Gasv\u00e6rksvej, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1716, Danmark, European Union",
+      "lat": "55.6698403",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Club 34",
+      "place_id": "8746303",
+      "lon": "12.5583466",
+      "address": "Club 34, Istedgade, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1707, Danmark, European Union",
+      "lat": "55.6708238",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Malbeck",
+      "place_id": "6847970",
+      "lon": "12.5532606",
+      "address": "Malbeck, 61, Istedgade, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1724, Danmark, European Union",
+      "lat": "55.6690298",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e9 Centralen",
+      "place_id": "6962028",
+      "lon": "12.5580255",
+      "address": "Caf\u00e9 Centralen, 26, Gasv\u00e6rksvej, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1716, Danmark, European Union",
+      "lat": "55.6697542",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Hos Tove",
+      "place_id": "6790477",
+      "lon": "12.5579984",
+      "address": "Hos Tove, 29, Gasv\u00e6rksvej, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1708, Danmark, European Union",
+      "lat": "55.6702507",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Lundgren V.I.P",
+      "place_id": "8632740",
+      "lon": "12.5546478",
+      "address": "Lundgren V.I.P, Vesterbro Torv, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1659, Danmark, European Union",
+      "lat": "55.6716843",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Brasserie",
+      "place_id": "6960072",
+      "lon": "12.5590756",
+      "address": "Brasserie, Vesterbrogade, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1615, Danmark, European Union",
+      "lat": "55.6728685",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Bodega 48",
+      "place_id": "1564886",
+      "lon": "12.5494376",
+      "address": "Bodega 48, Johnstrups Alle, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1923, Danmark, European Union",
+      "lat": "55.6813844",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "S\u00f8pavillon",
+      "place_id": "1444479",
+      "lon": "12.5591741",
+      "address": "S\u00f8pavillon, Gyldenl\u00f8vesgade, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1600, Danmark, European Union",
+      "lat": "55.6818945",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Diligencen",
+      "place_id": "16864892",
+      "lon": "12.5587948",
+      "address": "Diligencen, Korsgade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1635, Danmark, European Union",
+      "lat": "55.684931",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Bibendum",
+      "place_id": "10514816",
+      "lon": "12.56518",
+      "address": "Bibendum, Nansensgade, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1365, Danmark, European Union",
+      "lat": "55.6837431",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Masken Bar",
+      "place_id": "17961646",
+      "lon": "12.5686176",
+      "address": "Masken Bar, Studiestr\u00e6de, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1785, Danmark, European Union",
+      "lat": "55.6781756",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Kennedys Bar",
+      "place_id": "8162315",
+      "lon": "12.5560265",
+      "address": "Kennedys Bar, 23, Gammel Kongevej, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1616, Danmark, European Union",
+      "lat": "55.6737036",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Mikkeller bar",
+      "place_id": "7600278",
+      "lon": "12.5574604",
+      "address": "Mikkeller bar, 8BC, Viktoriagade, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1655, Danmark, European Union",
+      "lat": "55.6719919",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Buddha Bar",
+      "place_id": "956553",
+      "lon": "12.5554113",
+      "address": "Buddha Bar, 47, Vesterbrogade, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1659, Danmark, European Union",
+      "lat": "55.6719262",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "City Pub",
+      "place_id": "7146141",
+      "lon": "12.5597574",
+      "address": "City Pub, Vesterbrogade, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1615, Danmark, European Union",
+      "lat": "55.6730302",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e9 Touch\u00e9",
+      "place_id": "8143870",
+      "lon": "12.5571585",
+      "address": "Caf\u00e9 Touch\u00e9, 2, Viktoriagade, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1655, Danmark, European Union",
+      "lat": "55.6724995",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e9 Guldregn",
+      "place_id": "7020384",
+      "lon": "12.5498081",
+      "address": "Caf\u00e9 Guldregn, 1, Oehlenschl\u00e6gersgade, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1620, Danmark, European Union",
+      "lat": "55.6723347",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Larsen's Plaz",
+      "place_id": "7506301",
+      "lon": "12.5513488",
+      "address": "Larsen's Plaz, Gammel Kongevej, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1824, Danmark, European Union",
+      "lat": "55.6740877",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Rosie McGees",
+      "place_id": "951861",
+      "lon": "12.5669109",
+      "address": "Rosie McGees, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1785, Danmark, European Union",
+      "lat": "55.6757252",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "The Old English Pub",
+      "place_id": "8282942",
+      "lon": "12.5661236",
+      "address": "The Old English Pub, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1785, Danmark, European Union",
+      "lat": "55.6754474",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Funchs Vinstue",
+      "place_id": "16103167",
+      "lon": "12.5674015",
+      "address": "Funchs Vinstue, N\u00f8rre Farimagsgade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1363, Danmark, European Union",
+      "lat": "55.6844903",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Pub & Sport",
+      "place_id": "823636",
+      "lon": "12.5668096",
+      "address": "Pub & Sport, Vester Voldgade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1551, Danmark, European Union",
+      "lat": "55.6781266",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Kr\u00f8lben",
+      "place_id": "17164594",
+      "lon": "12.568277",
+      "address": "Kr\u00f8lben, Studiestr\u00e6de, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1785, Danmark, European Union",
+      "lat": "55.678048",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "\u00d8rsted \u00d8lbar & Cafe",
+      "place_id": "8038253",
+      "lon": "12.5644791",
+      "address": "\u00d8rsted \u00d8lbar & Cafe, Turesensgade, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1365, Danmark, European Union",
+      "lat": "55.6812388",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Cafe Globen",
+      "place_id": "17511143",
+      "lon": "12.5642273",
+      "address": "Cafe Globen, 2B, Turesensgade, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1368, Danmark, European Union",
+      "lat": "55.6813135",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Jagtstuen",
+      "place_id": "16103248",
+      "lon": "12.568527",
+      "address": "Jagtstuen, R\u00f8mersgade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1360, Danmark, European Union",
+      "lat": "55.683868",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Jernbanecafeen",
+      "place_id": "7426795",
+      "lon": "12.5636709",
+      "address": "Jernbanecafeen, 16, Reventlowsgade, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1651, Danmark, European Union",
+      "lat": "55.6721637",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "The Shamrock Inn",
+      "place_id": "1885745",
+      "lon": "12.5658676",
+      "address": "The Shamrock Inn, 7, Jernbanegade, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1608, Danmark, European Union",
+      "lat": "55.6759265",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "The Scottish Pub",
+      "place_id": "929107",
+      "lon": "12.567219",
+      "address": "The Scottish Pub, H.C. Andersens Boulevard, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1608, Danmark, European Union",
+      "lat": "55.6759526",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Banker\u00e5t",
+      "place_id": "123827",
+      "lon": "12.5651843",
+      "address": "Banker\u00e5t, Ahlefeldtsgade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1364, Danmark, European Union",
+      "lat": "55.6834082",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Streckers",
+      "place_id": "8393921",
+      "lon": "12.5666185",
+      "address": "Streckers, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1785, Danmark, European Union",
+      "lat": "55.675622",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Library Bar",
+      "place_id": "16560201",
+      "lon": "12.5646995",
+      "address": "Library Bar, Baneg\u00e5rdspladsen, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1570, Danmark, European Union",
+      "lat": "55.6738595",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "M\u00e4rkbar",
+      "place_id": "7426621",
+      "lon": "12.5458395",
+      "address": "M\u00e4rkbar, 106A, Vesterbrogade, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1621, Danmark, European Union",
+      "lat": "55.6717009",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e9 Snork",
+      "place_id": "6877026",
+      "lon": "12.5480362",
+      "address": "Caf\u00e9 Snork, 70, Dybb\u00f8lsgade, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1669, Danmark, European Union",
+      "lat": "55.6671045",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e9 Erik",
+      "place_id": "7499197",
+      "lon": "12.5487739",
+      "address": "Caf\u00e9 Erik, 24, Valdemarsgade, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1665, Danmark, European Union",
+      "lat": "55.6688571",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e8 Blomsten",
+      "place_id": "6568411",
+      "lon": "12.5484584",
+      "address": "Caf\u00e8 Blomsten, 109, Istedgade, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1724, Danmark, European Union",
+      "lat": "55.6676111",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Det Lille \u00d8resund",
+      "place_id": "7559071",
+      "lon": "12.5500506",
+      "address": "Det Lille \u00d8resund, 41, Oehlenschl\u00e6gersgade, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1640, Danmark, European Union",
+      "lat": "55.6691143",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Bob's Hytte",
+      "place_id": "7387095",
+      "lon": "12.540046",
+      "address": "Bob's Hytte, 5, Vesterf\u00e6lledvej, Sorte Hest, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1757, Danmark, European Union",
+      "lat": "55.6695045",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Ludwigsen",
+      "place_id": "7049528",
+      "lon": "12.5436884",
+      "address": "Ludwigsen, 115, Vesterbrogade, Sorte Hest, Frederiksberg, K\u00f8benhavn, Region Hovedstaden, 1810, Danmark, European Union",
+      "lat": "55.6709507",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Grusgraven",
+      "place_id": "7442244",
+      "lon": "12.5462526",
+      "address": "Grusgraven, 11, Enghavevej, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1624, Danmark, European Union",
+      "lat": "55.6708296",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Promenaden",
+      "place_id": "908401",
+      "lon": "12.5399431",
+      "address": "Promenaden, Frederiksberg Alle, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1820, Danmark, European Union",
+      "lat": "55.6742295",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Spunk Bar",
+      "place_id": "1728367",
+      "lon": "12.5604459",
+      "address": "Spunk Bar, 17, Istedgade, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1650, Danmark, European Union",
+      "lat": "55.6712584",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e9 Sommersted",
+      "place_id": "6961924",
+      "lon": "12.5550093",
+      "address": "Caf\u00e9 Sommersted, 2, Sommerstedgade, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1718, Danmark, European Union",
+      "lat": "55.6674606",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Skipper Bodega",
+      "place_id": "7454272",
+      "lon": "12.5543475",
+      "address": "Skipper Bodega, 66, Istedgade, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1650, Danmark, European Union",
+      "lat": "55.6695589",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "De Fire \u00c5rstider",
+      "place_id": "1850804",
+      "lon": "12.5582326",
+      "address": "De Fire \u00c5rstider, 34, Halmtorvet, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1700, Danmark, European Union",
+      "lat": "55.6695199",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Barbar Bar",
+      "place_id": "942437",
+      "lon": "12.5548963",
+      "address": "Barbar Bar, 51, Vesterbrogade, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1659, Danmark, European Union",
+      "lat": "55.671781",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Charlie Scotts",
+      "place_id": "917577",
+      "lon": "12.5732662",
+      "address": "Charlie Scotts, Skindergade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1158, Danmark, European Union",
+      "lat": "55.6786922",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "N\u00f8rreport Bodega",
+      "place_id": "17657808",
+      "lon": "12.571505",
+      "address": "N\u00f8rreport Bodega, \u00c6ggetorvet, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1358, Danmark, European Union",
+      "lat": "55.682421",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "The Irish Rover",
+      "place_id": "17168862",
+      "lon": "12.5739838",
+      "address": "The Irish Rover, Nygade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1161, Danmark",
+      "lat": "55.678645",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Victoria",
+      "place_id": "17455483",
+      "lon": "12.5717929",
+      "address": "Victoria, Gammeltorv, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1457, Danmark, European Union",
+      "lat": "55.6779148",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Cafe Halvvejen",
+      "place_id": "4272898",
+      "lon": "12.5740884",
+      "address": "Cafe Halvvejen, Krystalgade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1169, Danmark, European Union",
+      "lat": "55.6809657",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Centralhj\u00f8rnet",
+      "place_id": "17815763",
+      "lon": "12.572011",
+      "address": "Centralhj\u00f8rnet, Lavendelstr\u00e6de, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1462, Danmark, European Union",
+      "lat": "55.676689",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Roseng\u00e5rdens Bodega",
+      "place_id": "18187302",
+      "lon": "12.5728669",
+      "address": "Roseng\u00e5rdens Bodega, Roseng\u00e5rden, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1174, Danmark, European Union",
+      "lat": "55.6821953",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "BrewPub",
+      "place_id": "954756",
+      "lon": "12.5693622",
+      "address": "BrewPub, Vestergade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1456, Danmark, European Union",
+      "lat": "55.6770508",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "The Australien Bar",
+      "place_id": "7110638",
+      "lon": "12.5705635",
+      "address": "The Australien Bar, Vestergade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1456, Danmark, European Union",
+      "lat": "55.6779133",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e9 Kras",
+      "place_id": "7139781",
+      "lon": "12.5707085",
+      "address": "Caf\u00e9 Kras, Vestergade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1456, Danmark, European Union",
+      "lat": "55.6779717",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Streckers",
+      "place_id": "8848697",
+      "lon": "12.5719374",
+      "address": "Streckers, Frederiksberggade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1457, Danmark, European Union",
+      "lat": "55.6775408",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Heidi's Bier Bar",
+      "place_id": "6601530",
+      "lon": "12.5694568",
+      "address": "Heidi's Bier Bar, Vestergade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1456, Danmark, European Union",
+      "lat": "55.6773855",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "6",
+      "place_id": "1651273",
+      "lon": "12.5712542",
+      "address": "6, Kattesundet, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1458, Danmark, European Union",
+      "lat": "55.6771336",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Out Of Juice",
+      "place_id": "975776",
+      "lon": "12.5728895",
+      "address": "Out Of Juice, Frederiksborggade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1175, Danmark, European Union",
+      "lat": "55.6829746",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e8 Guldhornene",
+      "place_id": "6694263",
+      "lon": "12.5691017",
+      "address": "Caf\u00e8 Guldhornene, Vestergade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1456, Danmark, European Union",
+      "lat": "55.6771501",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "The Log Lady",
+      "place_id": "17659938",
+      "lon": "12.568967",
+      "address": "The Log Lady, Studiestr\u00e6de, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1785, Danmark, European Union",
+      "lat": "55.6783036",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Compass Bar",
+      "place_id": "931790",
+      "lon": "12.5717152",
+      "address": "Compass Bar, Gammeltorv, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1457, Danmark, European Union",
+      "lat": "55.6783096",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "N\u00f8rregade",
+      "place_id": "8507747",
+      "lon": "12.5722174",
+      "address": "N\u00f8rregade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1167, Danmark, European Union",
+      "lat": "55.6788528",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Byens Kro",
+      "place_id": "17583195",
+      "lon": "12.5793801",
+      "address": "Byens Kro, M\u00f8ntergade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1115, Danmark, European Union",
+      "lat": "55.6815947",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "R Vinbar",
+      "place_id": "17878927",
+      "lon": "12.5801525",
+      "address": "R Vinbar, Gammel M\u00f8nt, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1116, Danmark, European Union",
+      "lat": "55.6819319",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Il Senso",
+      "place_id": "8504411",
+      "lon": "12.577995",
+      "address": "Il Senso, Gothersgade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1124, Danmark, European Union",
+      "lat": "55.6832836",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Cafe Nick",
+      "place_id": "17344470",
+      "lon": "12.5824889",
+      "address": "Cafe Nick, Nikolajgade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1068, Danmark",
+      "lat": "55.6780616",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Flottenheimer",
+      "place_id": "960509",
+      "lon": "12.5750978",
+      "address": "Flottenheimer, Skindergade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1158, Danmark, European Union",
+      "lat": "55.6802012",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Toga Vinstue",
+      "place_id": "15604965",
+      "lon": "12.5803421",
+      "address": "Toga Vinstue, 3, Store Kirkestr\u00e6de, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1073, Danmark, European Union",
+      "lat": "55.6787643",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "The Dubliner",
+      "place_id": "933960",
+      "lon": "12.5789419",
+      "address": "The Dubliner, Amagertorv, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1160, Danmark",
+      "lat": "55.6786451",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Borgerkroen",
+      "place_id": "16663526",
+      "lon": "12.5876904",
+      "address": "Borgerkroen, Fredericiagade, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1310, Danmark",
+      "lat": "55.686467",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "The Bishop Arms",
+      "place_id": "942211",
+      "lon": "12.582795",
+      "address": "The Bishop Arms, Ny \u00d8stergade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1107, Danmark, European Union",
+      "lat": "55.6813659",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Sjus",
+      "place_id": "3951612",
+      "lon": "12.5798465",
+      "address": "Sjus, Pilestr\u00e6de, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1112, Danmark",
+      "lat": "55.6811388",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Hyttefadet",
+      "place_id": "18194401",
+      "lon": "12.5897588",
+      "address": "Hyttefadet, Nyhavn, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1255, Danmark",
+      "lat": "55.6803457",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Studenterhuset",
+      "place_id": "1544850",
+      "lon": "12.576282",
+      "address": "Studenterhuset, K\u00f8bmagergade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1150, Danmark, European Union",
+      "lat": "55.681192",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Lord Nelson",
+      "place_id": "960944",
+      "lon": "12.5768752",
+      "address": "Lord Nelson, Hyskenstr\u00e6de, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1207, Danmark, European Union",
+      "lat": "55.677942",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Hviids Vinstue",
+      "place_id": "17791104",
+      "lon": "12.584715",
+      "address": "Hviids Vinstue, Lille Kongensgade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1100, Danmark, European Union",
+      "lat": "55.6797778",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "The Moose",
+      "place_id": "1333020",
+      "lon": "12.5804647",
+      "address": "The Moose, Sv\u00e6rtegade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1112, Danmark, European Union",
+      "lat": "55.6810855",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Cafe Malm\u00f8",
+      "place_id": "17301950",
+      "lon": "12.589749",
+      "address": "Cafe Malm\u00f8, Havnegade, Arsenal\u00f8en, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1058, Danmark, European Union",
+      "lat": "55.677019",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Zoo Bar",
+      "place_id": "954428",
+      "lon": "12.5789911",
+      "address": "Zoo Bar, Kronprinsensgade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1001, Danmark, European Union",
+      "lat": "55.6806949",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Charlie's Bar",
+      "place_id": "834994",
+      "lon": "12.5802876",
+      "address": "Charlie's Bar, Pilestr\u00e6de, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1112, Danmark",
+      "lat": "55.6806132",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Beduin Bar",
+      "place_id": "921228",
+      "lon": "12.5748665",
+      "address": "Beduin Bar, Lille Kannikestr\u00e6de, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1170, Danmark",
+      "lat": "55.6800528",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "McJoys",
+      "place_id": "17387379",
+      "lon": "12.591233",
+      "address": "McJoys, Nyhavn, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1255, Danmark",
+      "lat": "55.679965",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Skipperkroen",
+      "place_id": "17301468",
+      "lon": "12.5898879",
+      "address": "Skipperkroen, Nyhavn, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1255, Danmark",
+      "lat": "55.6803121",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Sam's Bar",
+      "place_id": "949804",
+      "lon": "12.5830136",
+      "address": "Sam's Bar, \u00d8stergade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1100, Danmark",
+      "lat": "55.679714",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Natcafeen",
+      "place_id": "8549081",
+      "lon": "12.5842922",
+      "address": "Natcafeen, Gothersgade, Arsenal\u00f8en, Frederiksstaden, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1104, Danmark, European Union",
+      "lat": "55.6815566",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Jazz Caf\u00e9",
+      "place_id": "8996481",
+      "lon": "12.582289",
+      "address": "Jazz Caf\u00e9, Store Regnegade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1110, Danmark, European Union",
+      "lat": "55.6818706",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Koster",
+      "place_id": "8988048",
+      "lon": "12.5823968",
+      "address": "Koster, Gothersgade, Christiania, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1110, Danmark, European Union",
+      "lat": "55.6821086",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Basement",
+      "place_id": "8996457",
+      "lon": "12.5825764",
+      "address": "Basement, Store Regnegade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1110, Danmark, European Union",
+      "lat": "55.6818655",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Andy's Bar",
+      "place_id": "8632157",
+      "lon": "12.5822351",
+      "address": "Andy's Bar, Gothersgade, Christiania, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1110, Danmark, European Union",
+      "lat": "55.6821592",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Da Vinci",
+      "place_id": "16682397",
+      "lon": "12.5837032",
+      "address": "Da Vinci, Gothersgade, Arsenal\u00f8en, Frederiksstaden, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1104, Danmark, European Union",
+      "lat": "55.6817658",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "M\u00e6lk",
+      "place_id": "8398935",
+      "lon": "12.5836617",
+      "address": "M\u00e6lk, Gr\u00f8nnegade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1107, Danmark",
+      "lat": "55.6817227",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Ocak Caf\u00e9",
+      "place_id": "8398875",
+      "lon": "12.5848296",
+      "address": "Ocak Caf\u00e9, Boltens G\u00e5rd, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1301, Danmark",
+      "lat": "55.6822016",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Trykbar",
+      "place_id": "7114801",
+      "lon": "12.5804369",
+      "address": "Trykbar, M\u00f8ntergade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1111, Danmark, European Union",
+      "lat": "55.6822933",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Cucaracha Bar",
+      "place_id": "8988115",
+      "lon": "12.5816691",
+      "address": "Cucaracha Bar, Gothersgade, Christiania, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1110, Danmark, European Union",
+      "lat": "55.6823061",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Hornsleth",
+      "place_id": "9092260",
+      "lon": "12.5771236",
+      "address": "Hornsleth, L\u00f8vstr\u00e6de, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1153, Danmark",
+      "lat": "55.6805487",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e9 Rex",
+      "place_id": "8996710",
+      "lon": "12.5792648",
+      "address": "Caf\u00e9 Rex, Pilestr\u00e6de, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1112, Danmark",
+      "lat": "55.6812801",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Den glade Gris",
+      "place_id": "8399466",
+      "lon": "12.5745981",
+      "address": "Den glade Gris, Lille Kannikestr\u00e6de, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1170, Danmark",
+      "lat": "55.6800283",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Cafe Retro",
+      "place_id": "17361020",
+      "lon": "12.575788",
+      "address": "Cafe Retro, Knabrostr\u00e6de, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1208, Danmark, European Union",
+      "lat": "55.6767826",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Comedy Zoo",
+      "place_id": "17778344",
+      "lon": "12.5757466",
+      "address": "Comedy Zoo, Knabrostr\u00e6de, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1208, Danmark, European Union",
+      "lat": "55.6770164",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "BoBi Bar",
+      "place_id": "8860804",
+      "lon": "12.5786867",
+      "address": "BoBi Bar, Klareboderne, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1115, Danmark, European Union",
+      "lat": "55.6810096",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Surf Bar",
+      "place_id": "17380265",
+      "lon": "12.5746625",
+      "address": "Surf Bar, Lille Kannikestr\u00e6de, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1170, Danmark",
+      "lat": "55.6799727",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Pal\u00e6 Bar",
+      "place_id": "16171475",
+      "lon": "12.5837207",
+      "address": "Pal\u00e6 Bar, Ny Adelgade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1103, Danmark",
+      "lat": "55.6812131",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "LaBar",
+      "place_id": "8474334",
+      "lon": "12.5810346",
+      "address": "LaBar, Sv\u00e6rtegade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1112, Danmark, European Union",
+      "lat": "55.6812694",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Vinbar",
+      "place_id": "8549256",
+      "lon": "12.5816422",
+      "address": "Vinbar, Gammel M\u00f8nt, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1117, Danmark, European Union",
+      "lat": "55.6810501",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Kongens Bar",
+      "place_id": "17791634",
+      "lon": "12.5842835",
+      "address": "Kongens Bar, Lille Kongensgade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1100, Danmark, European Union",
+      "lat": "55.6797103",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Wessels Kro",
+      "place_id": "17899768",
+      "lon": "12.580734",
+      "address": "Wessels Kro, Sv\u00e6rtegade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1112, Danmark, European Union",
+      "lat": "55.681166",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Fat Tuesday Bar",
+      "place_id": "16693342",
+      "lon": "12.583869",
+      "address": "Fat Tuesday Bar, Ny Adelgade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1103, Danmark",
+      "lat": "55.681091",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Vinstuen Bernikom",
+      "place_id": "8399185",
+      "lon": "12.5825486",
+      "address": "Vinstuen Bernikom, Bernikowg\u00e5rden, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1100, Danmark",
+      "lat": "55.6800305",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Cocktailbar",
+      "place_id": "8741531",
+      "lon": "12.5807439",
+      "address": "Cocktailbar, Fortunstr\u00e6de, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1200, Danmark",
+      "lat": "55.6779554",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Drop Inn",
+      "place_id": "948041",
+      "lon": "12.5733219",
+      "address": "Drop Inn, Kompagnistr\u00e6de, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1466, Danmark, European Union",
+      "lat": "55.676407",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Never Mind",
+      "place_id": "17778538",
+      "lon": "12.571508",
+      "address": "Never Mind, Mikkel Bryggers Gade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1460, Danmark, European Union",
+      "lat": "55.676387",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Her Er Ro Pub",
+      "place_id": "7064584",
+      "lon": "12.5724384",
+      "address": "Her Er Ro Pub, Stormgade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1555, Danmark, European Union",
+      "lat": "55.6741005",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Villa Vino",
+      "place_id": "8741335",
+      "lon": "12.5713457",
+      "address": "Villa Vino, Mikkel Bryggers Gade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1460, Danmark, European Union",
+      "lat": "55.6764896",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Oscar",
+      "place_id": "8258664",
+      "lon": "12.5715987",
+      "address": "Oscar, Farvergade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1463, Danmark, European Union",
+      "lat": "55.6757728",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Mojo",
+      "place_id": "17778211",
+      "lon": "12.5735337",
+      "address": "Mojo, L\u00f8ngangstr\u00e6de, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1467, Danmark, European Union",
+      "lat": "55.6756583",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Foster's",
+      "place_id": "18078260",
+      "lon": "12.572308",
+      "address": "Foster's, L\u00f8ngangstr\u00e6de, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1467, Danmark, European Union",
+      "lat": "55.6751773",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Streckers",
+      "place_id": "8781051",
+      "lon": "12.5662488",
+      "address": "Streckers, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1785, Danmark, European Union",
+      "lat": "55.6754915",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Icebar Copenhagen",
+      "place_id": "17815420",
+      "lon": "12.5731153",
+      "address": "Icebar Copenhagen, L\u00f8ngangstr\u00e6de, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1467, Danmark, European Union",
+      "lat": "55.6754919",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Cafe Langebro",
+      "place_id": "952494",
+      "lon": "12.5802893",
+      "address": "Cafe Langebro, 1B, Islands Brygge, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2300, Danmark, European Union",
+      "lat": "55.6691735",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Galathea Kroen",
+      "place_id": "17492882",
+      "lon": "12.5745289",
+      "address": "Galathea Kroen, Kompagnistr\u00e6de, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1466, Danmark, European Union",
+      "lat": "55.6766459",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Isbj\u00f8rnen",
+      "place_id": "7398808",
+      "lon": "12.5786059",
+      "address": "Isbj\u00f8rnen, 1, Reykjaviksgade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2300, Danmark",
+      "lat": "55.6676061",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e9 Haraldsborg",
+      "place_id": "7503888",
+      "lon": "12.5780731",
+      "address": "Caf\u00e9 Haraldsborg, 15, Islands Brygge, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2300, Danmark, European Union",
+      "lat": "55.6675771",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Louies Vinstue",
+      "place_id": "8861755",
+      "lon": "12.5959519",
+      "address": "Louies Vinstue, Christmas M\u00f8llers Plads, Christiania, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1425, Danmark, European Union",
+      "lat": "55.6682928",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Cykelstalden",
+      "place_id": "17247906",
+      "lon": "12.5875083",
+      "address": "Cykelstalden, Oslo Plads, Frederiksstaden, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1327, Danmark, European Union",
+      "lat": "55.6924625",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Fingerb\u00f8llet",
+      "place_id": "7306320",
+      "lon": "12.5906539",
+      "address": "Fingerb\u00f8llet, Wildersgade, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1401, Danmark",
+      "lat": "55.6736355",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e9 St\u00e6rkodder",
+      "place_id": "130501",
+      "lon": "12.5921433",
+      "address": "Caf\u00e9 St\u00e6rkodder, Sankt Ann\u00e6 Gade, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1401, Danmark",
+      "lat": "55.6736632",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Kanal Bodega",
+      "place_id": "6942157",
+      "lon": "12.5905788",
+      "address": "Kanal Bodega, Overgaden Oven Vandet, Christiania, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1410, Danmark, European Union",
+      "lat": "55.6719928",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Cafe Eiffel",
+      "place_id": "1556935",
+      "lon": "12.5917094",
+      "address": "Cafe Eiffel, Wildersgade, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1401, Danmark",
+      "lat": "55.6740401",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Kafe Falken",
+      "place_id": "7429853",
+      "lon": "12.5924079",
+      "address": "Kafe Falken, Prinsessegade, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1423, Danmark",
+      "lat": "55.6711746",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Cafe H\u00f8vlen",
+      "place_id": "7316713",
+      "lon": "12.6000522",
+      "address": "Cafe H\u00f8vlen, Prinsessegade, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1429, Danmark",
+      "lat": "55.6758158",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Hong Kong",
+      "place_id": "18053052",
+      "lon": "12.5884807",
+      "address": "Hong Kong, Nyhavn, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1255, Danmark",
+      "lat": "55.6806961",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Toldbod Bodega",
+      "place_id": "8785453",
+      "lon": "12.5907062",
+      "address": "Toldbod Bodega, Esplanaden, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1266, Danmark, European Union",
+      "lat": "55.6872437",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Halvandet",
+      "place_id": "14989123",
+      "lon": "12.6095487",
+      "address": "Halvandet, Refshalevej, Nyholm, Frederiksstaden, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1432, Danmark, European Union",
+      "lat": "55.6954525",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Le Sommelier",
+      "place_id": "8260386",
+      "lon": "12.591856",
+      "address": "Le Sommelier, Bredgade, Frederiksholm, Frederiksstaden, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1265, Danmark, European Union",
+      "lat": "55.6865246",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Sj\u00e6l\u00f8r Bodega",
+      "place_id": "4088191",
+      "lon": "12.5287561",
+      "address": "Sj\u00e6l\u00f8r Bodega, Sj\u00e6l\u00f8r Boulevard, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2450, Danmark, European Union",
+      "lat": "55.6497547",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e9 Ellebo",
+      "place_id": "4150241",
+      "lon": "12.5274396",
+      "address": "Caf\u00e9 Ellebo, Sj\u00e6l\u00f8r Boulevard, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2450, Danmark, European Union",
+      "lat": "55.6503992",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Mozarts Bodega",
+      "place_id": "4157470",
+      "lon": "12.5293861",
+      "address": "Mozarts Bodega, Mozartsvej, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2450, Danmark, European Union",
+      "lat": "55.6481432",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Bettys Bodega",
+      "place_id": "16927566",
+      "lon": "12.5244533",
+      "address": "Bettys Bodega, Hammelstrupvej, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2450, Danmark, European Union",
+      "lat": "55.6462515",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Syd Vest",
+      "place_id": "16051046",
+      "lon": "12.5355053",
+      "address": "Syd Vest, P. Knudsens Gade, Humleby, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2450, Danmark, European Union",
+      "lat": "55.6524141",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Nanok Bar",
+      "place_id": "17845130",
+      "lon": "12.5048845",
+      "address": "Nanok Bar, Aksel Sandemoses Plads, Vanl\u00f8se, Valby, K\u00f8benhavns Kommune, Region Hovedstaden, 2500, Danmark, European Union",
+      "lat": "55.6668132",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Venners Hjem",
+      "place_id": "4559743",
+      "lon": "12.5206163",
+      "address": "Venners Hjem, Carl Jacobsens Vej, Valby, K\u00f8benhavns Kommune, Region Hovedstaden, 2450, Danmark, European Union",
+      "lat": "55.6530322",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Artillericafeen",
+      "place_id": "8861443",
+      "lon": "12.5839106",
+      "address": "Artillericafeen, Njalsgade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1411, Danmark, European Union",
+      "lat": "55.664482",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "High Q",
+      "place_id": "17754442",
+      "lon": "12.552071",
+      "address": "High Q, 52-54, S\u00f8nder Boulevard, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1720, Danmark, European Union",
+      "lat": "55.6665986",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Beni's Bar",
+      "place_id": "970996",
+      "lon": "12.5434218",
+      "address": "Beni's Bar, 61, Enghavevej, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1674, Danmark, European Union",
+      "lat": "55.6657639",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Enghave Kro",
+      "place_id": "6952142",
+      "lon": "12.5403678",
+      "address": "Enghave Kro, 135, S\u00f8nder Boulevard, Humleby, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1766, Danmark, European Union",
+      "lat": "55.6634322",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Cafe Hytten",
+      "place_id": "8503868",
+      "lon": "12.5419883",
+      "address": "Cafe Hytten, 77, Enghavevej, Humleby, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1739, Danmark, European Union",
+      "lat": "55.6632312",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Cafe 33",
+      "place_id": "6842851",
+      "lon": "12.5535249",
+      "address": "Cafe 33, 33, Dybb\u00f8lsgade, Sorte Hest, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1721, Danmark, European Union",
+      "lat": "55.6660456",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Ting Kroen",
+      "place_id": "19767777",
+      "lon": "12.6026434",
+      "address": "Ting Kroen, Skotlandsgade, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2300, Danmark",
+      "lat": "55.6577925",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "John's Kro",
+      "place_id": "15190946",
+      "lon": "12.616356",
+      "address": "John's Kro, Holmbladsgade, Arsenal\u00f8en, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1441, Danmark, European Union",
+      "lat": "55.666984",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Jaguaren",
+      "place_id": "15190780",
+      "lon": "12.603224",
+      "address": "Jaguaren, Holmbladsgade, Arsenal\u00f8en, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1440, Danmark, European Union",
+      "lat": "55.664331",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e9 Lystig",
+      "place_id": "19122467",
+      "lon": "12.6028151",
+      "address": "Caf\u00e9 Lystig, Sundholmsvej, Arsenal\u00f8en, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2300, Danmark, European Union",
+      "lat": "55.6583402",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Lassie Bar",
+      "place_id": "17820934",
+      "lon": "12.598079",
+      "address": "Lassie Bar, Holl\u00e6nderdybet, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1423, Danmark",
+      "lat": "55.6644556",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "V\u00e6rkstedet",
+      "place_id": "8862307",
+      "lon": "12.5945051",
+      "address": "V\u00e6rkstedet, Peter Vedels Gade, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1423, Danmark",
+      "lat": "55.6656209",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Cafe Parkg\u00e5rden",
+      "place_id": "16452441",
+      "lon": "12.6155794",
+      "address": "Cafe Parkg\u00e5rden, \u00d8strigsgade, Christiania, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2300, Danmark, European Union",
+      "lat": "55.6628322",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Holmbladsgade",
+      "place_id": "11069840",
+      "lon": "12.6121277",
+      "address": "Holmbladsgade, Arsenal\u00f8en, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1441, Danmark, European Union",
+      "lat": "55.6663489",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Amager \u00d8lhus | Mads Bonde",
+      "place_id": "15789579",
+      "lon": "12.604527",
+      "address": "Amager \u00d8lhus | Mads Bonde, 22, Holmbladsgade, Arsenal\u00f8en, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2300, Danmark, European Union",
+      "lat": "55.664579",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Papillon",
+      "place_id": "7049844",
+      "lon": "12.586549",
+      "address": "Papillon, Sindingvej, K\u00f8benhavn, Region Hovedstaden, 2770, Danmark, European Union",
+      "lat": "55.6028257",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Cafe Josefine",
+      "place_id": "4811676",
+      "lon": "12.6074977",
+      "address": "Cafe Josefine, Frankrigsgade, Christiania, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2300, Danmark, European Union",
+      "lat": "55.6615985",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Hatten Bar",
+      "place_id": "19780447",
+      "lon": "12.590686",
+      "address": "Hatten Bar, Hegningen, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 0999, Danmark",
+      "lat": "55.6537296",
+      "type": "bar",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e9 V\u00e5ren",
+      "place_id": "18876044",
+      "lon": "12.6208203",
+      "address": "Caf\u00e9 V\u00e5ren, Backersvej, Christianshavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2300, Danmark, European Union",
+      "lat": "55.6574013",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Graceland",
+      "place_id": "17795226",
+      "lon": "12.6248334",
+      "address": "Graceland, Amager Landevej, Kastrup, T\u00e5rnby Kommune, Region Hovedstaden, 2770, Danmark, European Union",
+      "lat": "55.6257024",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Skipperstuen",
+      "place_id": "18745037",
+      "lon": "12.6209147",
+      "address": "Skipperstuen, Amager Landevej, Kastrup, T\u00e5rnby Kommune, Region Hovedstaden, 2770, Danmark",
+      "lat": "55.6322697",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Joe's",
+      "place_id": "1368442",
+      "lon": "12.6428538",
+      "address": "Joe's, Alleen, Kastrup, T\u00e5rnby Kommune, Region Hovedstaden, 2770, Danmark",
+      "lat": "55.6359866",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e9 Bredager",
+      "place_id": "1309248",
+      "lon": "12.6416021",
+      "address": "Caf\u00e9 Bredager, Kastruplundgade, Kastrup, T\u00e5rnby Kommune, Region Hovedstaden, 2770, Danmark, European Union",
+      "lat": "55.6369519",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Scott-Inn",
+      "place_id": "1309329",
+      "lon": "12.6353398",
+      "address": "Scott-Inn, Saltv\u00e6rksvej, Kastrup, T\u00e5rnby Kommune, Region Hovedstaden, 2770, Danmark, European Union",
+      "lat": "55.6378802",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "Caf\u00e9 Skovly",
+      "place_id": "1357732",
+      "lon": "12.6433124",
+      "address": "Caf\u00e9 Skovly, Alleen, Kastrup, T\u00e5rnby Kommune, Region Hovedstaden, 2770, Danmark",
+      "lat": "55.6360073",
+      "type": "pub",
+      "class": "amenity"
+   },
+   {
+      "name": "G\u00f8g & Gokke",
+      "place_id": "17879533",
+      "lon": "12.6617496",
+      "address": "G\u00f8g & Gokke, Kirkevej, Store Magleby, 2791, Danmark, European Union",
+      "lat": "55.5949073",
+      "type": "pub",
+      "class": "amenity"
+   }
+]

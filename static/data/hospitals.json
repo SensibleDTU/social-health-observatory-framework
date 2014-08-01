@@ -1,0 +1,200 @@
+[
+   {
+      "name": "Rigshospitalet",
+      "place_id": "37488482",
+      "lon": "12.5658520585696",
+      "address": "Rigshospitalet, 9, Blegdamsvej, \u00d8sterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2100, Danmark, European Union",
+      "lat": "55.69704175",
+      "type": "hospital",
+      "class": "amenity"
+   },
+   {
+      "name": "Bispebjerg Hospital",
+      "place_id": "37836818",
+      "lon": "12.5401617701408",
+      "address": "Bispebjerg Hospital, 23, Bispebjerg Bakke, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2400, Danmark, European Union",
+      "lat": "55.7143837",
+      "type": "hospital",
+      "class": "amenity"
+   },
+   {
+      "name": "Gentofte Hospital",
+      "place_id": "37782846",
+      "lon": "12.546479862904",
+      "address": "Gentofte Hospital, Niels Andersens Vej, SwimOuts Butik, Dysseg\u00e5rd, Gentofte, Gentofte Kommune, Region Hovedstaden, 2900, Danmark, European Union",
+      "lat": "55.7389047",
+      "type": "hospital",
+      "class": "amenity"
+   },
+   {
+      "name": "Amager Hospital - Italiensvej",
+      "place_id": "26574327",
+      "lon": "12.6198587787138",
+      "address": "Amager Hospital - Italiensvej, Indgang 3, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2300, Danmark, European Union",
+      "lat": "55.65524515",
+      "type": "hospital",
+      "class": "amenity"
+   },
+   {
+      "name": "Amager Hospital - Italiensvej",
+      "place_id": "43620966",
+      "lon": "12.6213597565226",
+      "address": "Amager Hospital - Italiensvej, Italiensvej, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2300, Danmark, European Union",
+      "lat": "55.65519235",
+      "type": "hospital",
+      "class": "amenity"
+   },
+   {
+      "name": "B\u00f8rneneurologisk Behandlingsklinik",
+      "place_id": "14815744",
+      "lon": "12.565832",
+      "address": "B\u00f8rneneurologisk Behandlingsklinik, Borgerv\u00e6nget, \u00d8sterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2100, Danmark, European Union",
+      "lat": "55.7156153",
+      "type": "hospital",
+      "class": "amenity"
+   },
+   {
+      "name": "Psykiatrisk Center Amager",
+      "place_id": "81628209",
+      "lon": "12.5858834601828",
+      "address": "Psykiatrisk Center Amager, Digevej, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 0999, Danmark, European Union",
+      "lat": "55.6433704164869",
+      "type": "hospital",
+      "class": "amenity"
+   },
+   {
+      "name": "Diakonisse-stiftelsen",
+      "place_id": "921011",
+      "lon": "12.5183758",
+      "address": "Diakonisse-stiftelsen, Peter Bangs Vej, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 2000, Danmark, European Union",
+      "lat": "55.6784996",
+      "type": "hospital",
+      "class": "amenity"
+   },
+   {
+      "name": "FRH",
+      "place_id": "37209080",
+      "lon": "12.5226002248757",
+      "address": "FRH, Hovedvejen, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 2000, Danmark, European Union",
+      "lat": "55.68642795",
+      "type": "hospital",
+      "class": "amenity"
+   },
+   {
+      "name": "Peter Bangs Vej",
+      "place_id": "38235760",
+      "lon": "12.5185384617236",
+      "address": "Peter Bangs Vej, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 2000, Danmark, European Union",
+      "lat": "55.67846855",
+      "type": "hospital",
+      "class": "amenity"
+   },
+   {
+      "name": "Roskilde Sygehus",
+      "place_id": "20350793",
+      "lon": "12.0902239515572",
+      "address": "Roskilde Sygehus, K\u00f8gevej, Himmelev, Roskilde, Roskilde Kommune, Region Sj\u00e6lland, 4000, Danmark, European Union",
+      "lat": "55.63607835",
+      "type": "hospital",
+      "class": "amenity"
+   },
+   {
+      "name": "Amtssygehuset Fjorden",
+      "place_id": "44232872",
+      "lon": "12.070796240702",
+      "address": "Amtssygehuset Fjorden, Tofteparken, Sankt J\u00f8rgensbjerg, Himmelev, Roskilde, Roskilde Kommune, Region Sj\u00e6lland, 4000, Danmark, European Union",
+      "lat": "55.650232306025",
+      "type": "hospital",
+      "class": "amenity"
+   },
+   {
+      "name": "Dyrehavevej",
+      "place_id": "69544126",
+      "lon": "12.3273169822248",
+      "address": "Dyrehavevej, Hiller\u00f8d, Hiller\u00f8d Kommune, Region Hovedstaden, 3400, Danmark, European Union",
+      "lat": "55.93087525",
+      "type": "hospital",
+      "class": "amenity"
+   },
+   {
+      "name": "Nordsj\u00e6llands Hospital",
+      "place_id": "168558",
+      "lon": "12.3252771",
+      "address": "Nordsj\u00e6llands Hospital, Dyrehavevej, Hiller\u00f8d, Hiller\u00f8d Kommune, Region Hovedstaden, 3400, Danmark, European Union",
+      "lat": "55.9312915",
+      "type": "hospital",
+      "class": "amenity"
+   },
+   {
+      "name": "Hvidovre Hospital",
+      "place_id": "36908588",
+      "lon": "12.4667709118434",
+      "address": "Hvidovre Hospital, Holb\u00e6kmotorvejen, Hvidovre, Hvidovre Kommune, Region Hovedstaden, 2650, Danmark, European Union",
+      "lat": "55.64880755",
+      "type": "hospital",
+      "class": "amenity"
+   },
+   {
+      "name": "Kindebjergvej",
+      "place_id": "38687040",
+      "lon": "12.3898253013829",
+      "address": "Kindebjergvej, Ejby, Glostrup, Glostrup Kommune, Region Hovedstaden, 2600, Danmark, European Union",
+      "lat": "55.6720418",
+      "type": "hospital",
+      "class": "amenity"
+   },
+   {
+      "name": "Psykiatrisk Center Ballerup",
+      "place_id": "42498299",
+      "lon": "12.360491530975",
+      "address": "Psykiatrisk Center Ballerup, Ballerup Boulevard, Ballerup, Ballerup Kommune, Region Hovedstaden, 2750, Danmark, European Union",
+      "lat": "55.7218985245791",
+      "type": "hospital",
+      "class": "amenity"
+   },
+   {
+      "name": "Psykiatisk Center Hvidovre",
+      "place_id": "42587475",
+      "lon": "12.4410852083721",
+      "address": "Psykiatisk Center Hvidovre, Br\u00f8ndby\u00f8stervej, Br\u00f8ndby\u00f8ster, Br\u00f8ndby Kommune, Region Hovedstaden, 2650, Danmark",
+      "lat": "55.6494692832033",
+      "type": "hospital",
+      "class": "amenity"
+   },
+   {
+      "name": "Steno Diabetes Center",
+      "place_id": "53732821",
+      "lon": "12.5255872474461",
+      "address": "Steno Diabetes Center, Niels Steensens Vej, Vangede, J\u00e6gersborg, Gentofte Kommune, Region Hovedstaden, 2820, Danmark, European Union",
+      "lat": "55.7549397414702",
+      "type": "hospital",
+      "class": "amenity"
+   },
+   {
+      "name": "Aller\u00f8d Privathospital",
+      "place_id": "7016563",
+      "lon": "12.357458",
+      "address": "Aller\u00f8d Privathospital, 2A, Aller\u00f8d Stationsvej, Aller\u00f8d, Aller\u00f8d Kommune, Region Hovedstaden, 3450, Danmark, European Union",
+      "lat": "55.8700918",
+      "type": "hospital",
+      "class": "amenity"
+   },
+   {
+      "name": "Lar\u00f6ds v\u00e5rdcentral",
+      "place_id": "6975700",
+      "lon": "12.656596",
+      "address": "Lar\u00f6ds v\u00e5rdcentral, Travv\u00e4gen, Norr, Lar\u00f6d, Helsingborg, Sk\u00e5ne l\u00e4n, G\u00f6taland, 252 86, Sverige",
+      "lat": "56.0941617",
+      "type": "hospital",
+      "class": "amenity"
+   },
+   {
+      "name": "Nordsj\u00e6llands Hospital",
+      "place_id": "67378471",
+      "lon": "12.0849795736884",
+      "address": "Nordsj\u00e6llands Hospital, Frederikssundsvej, Gr\u00e6se Bakkeby, Frederikssund Kommune, Region Hovedstaden, 3600, Danmark, European Union",
+      "lat": "55.8483715",
+      "type": "hospital",
+      "class": "amenity"
+   }
+]

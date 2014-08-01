@@ -1,0 +1,6 @@
+<ul class="datasets" data-bind="foreach: datasets()">
+    <li class="dataset">
+        <i class="status fa fa-2x fa-fw" data-bind="css: $parent.getTypeIcon(type)"></i>
+        <span data-bind="text: name+' ('+id+')'"></span>
+    </li>
+</ul>

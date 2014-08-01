@@ -1,0 +1,14 @@
+<!-- The inner HTML of the info box Leaflet control. The parent's class is
+'info-box'.-->
+<div class="info-box" data-bind="if: name, visible: name">
+	<h4 data-bind="text: name">Sector info</h4>
+	<b ></b>
+	<table class="table table-condensed">
+		<tbody data-bind="foreach: properties.items">
+			<tr>
+				<td data-bind="text: key"></td>
+				<td data-bind="text: value"></td>
+			</tr>
+		</tbody>
+	</table>
+</div>

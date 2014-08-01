@@ -1,0 +1,839 @@
+[
+   {
+      "name": "Frederiksborg Slot",
+      "place_id": "695956",
+      "lon": "12.3011131",
+      "address": "Frederiksborg Slot, Hiller\u00f8d, Hiller\u00f8d Kommune, Region Hovedstaden, 3400, Danmark, European Union",
+      "lat": "55.934969",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Torup Landsby",
+      "place_id": "19571590",
+      "lon": "12.0602728",
+      "address": "Torup Landsby, Tisvildevejen, Tisvilde Hegn, Tisvilde, Gribskov Kommune, Region Hovedstaden, 3220, Danmark",
+      "lat": "56.033741",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Fuglebjergg\u00e5rd",
+      "place_id": "2112755",
+      "lon": "12.2427466",
+      "address": "Fuglebjergg\u00e5rd, 8, Hemmingstrupvej, Sletelte, Gribskov Kommune, Region Hovedstaden, 3200, Danmark, European Union",
+      "lat": "56.0562072",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Julianeh\u00f8j",
+      "place_id": "94430734",
+      "lon": "11.9678110834476",
+      "address": "Julianeh\u00f8j, Kulhusvej, Nyhuse, Frederikssund Kommune, Region Hovedstaden, 3630, Danmark, European Union",
+      "lat": "55.86083205",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Fredensborg Slot",
+      "place_id": "1016179",
+      "lon": "12.3956981",
+      "address": "Fredensborg Slot, Slottet, Fredensborg, Fredensborg Kommune, Region Hovedstaden, 3480, Danmark, European Union",
+      "lat": "55.9820238",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Esrum Kloster",
+      "place_id": "64181646",
+      "lon": "12.3775331772031",
+      "address": "Esrum Kloster, Klostergade, Esrum, Gribskov Kommune, Region Hovedstaden, 3120, Danmark, European Union",
+      "lat": "56.0474918083788",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "S\u00f8borg Slotsruin",
+      "place_id": "11382556",
+      "lon": "12.3096688",
+      "address": "S\u00f8borg Slotsruin, Bygaden, S\u00f8borg, Gribskov Kommune, Region Hovedstaden, 3250, Danmark",
+      "lat": "56.090657",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Nordmandsdalen",
+      "place_id": "49837362",
+      "lon": "12.3880784360994",
+      "address": "Nordmandsdalen, Zoarsvej, Fredensborg, Fredensborg Kommune, Region Hovedstaden, 3480, Danmark, European Union",
+      "lat": "55.9827311042395",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Klostergade",
+      "place_id": "64010248",
+      "lon": "12.37747065",
+      "address": "Klostergade, Esrum, Gribskov Kommune, Region Hovedstaden, Danmark",
+      "lat": "56.0463368",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Esrum M\u00f8lleg\u00e5rd",
+      "place_id": "63710337",
+      "lon": "12.3768825382366",
+      "address": "Esrum M\u00f8lleg\u00e5rd, Klostergade, Esrum, Gribskov Kommune, Region Hovedstaden, Danmark",
+      "lat": "56.0463305743163",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Roskilde Domkirke",
+      "place_id": "85318486",
+      "lon": "12.0803972079088",
+      "address": "Roskilde Domkirke, Domkirkepladsen, Sankt J\u00f8rgensbjerg, Himmelev, Roskilde, Roskilde Kommune, Region Sj\u00e6lland, 4000, Danmark, European Union",
+      "lat": "55.64264525",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Ole R\u00f8mers Landobservatorium, Observatorium Tusculanum",
+      "place_id": "145829",
+      "lon": "12.3032846",
+      "address": "Ole R\u00f8mers Landobservatorium, Observatorium Tusculanum, Ole R\u00f8mers Vej, Vridsl\u00f8semagle, H\u00f8je-Taastrup Kommune, Region Hovedstaden, 2630, Danmark",
+      "lat": "55.6867669",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Orange stage (Roskilde festival)",
+      "place_id": "75680271",
+      "lon": "12.0771896",
+      "address": "Orange stage (Roskilde festival), Darupvej, Darup, Roskilde Kommune, Region Sj\u00e6lland, 4000, Danmark, European Union",
+      "lat": "55.62148965",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Arena Stage (Roskilde Festival)",
+      "place_id": "75792347",
+      "lon": "12.0839812083681",
+      "address": "Arena Stage (Roskilde Festival), Poppelg\u00e5rdsvej, Himmelev, Kamstrup, Roskilde Kommune, Region Sj\u00e6lland, 4000, Danmark, European Union",
+      "lat": "55.6198422754719",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Aldershvile Slotsruin",
+      "place_id": "973543",
+      "lon": "12.4515951",
+      "address": "Aldershvile Slotsruin, Slotsparken, Bagsv\u00e6rd, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2880, Danmark, European Union",
+      "lat": "55.7692908",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Fures\u00f8h\u00f8j",
+      "place_id": "969732",
+      "lon": "12.4348304",
+      "address": "Fures\u00f8h\u00f8j, Virum, Lyngby-Taarb\u00e6k Kommune, Region Hovedstaden, 2830, Danmark, European Union",
+      "lat": "55.7986026",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Frederiksdal",
+      "place_id": "38344119",
+      "lon": "12.4459487028225",
+      "address": "Frederiksdal, Nybrovej, Virum, Lyngby-Taarb\u00e6k Kommune, Region Hovedstaden, 2880, Danmark, European Union",
+      "lat": "55.7803450921862",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Bakkens gamle tr\u00e6rutschebane",
+      "place_id": "89315238",
+      "lon": "12.5745001715433",
+      "address": "Bakkens gamle tr\u00e6rutschebane, Dyrehavsbakken, Lyngby-Taarb\u00e6k Kommune, Region Hovedstaden, 2930, Danmark, European Union",
+      "lat": "55.7760103762915",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Dyrehavsbakken",
+      "place_id": "89876389",
+      "lon": "12.5739620889919",
+      "address": "Dyrehavsbakken, Lyngby-Taarb\u00e6k Kommune, Region Hovedstaden, 2930, Danmark, European Union",
+      "lat": "55.775436932104",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Vandrutschebanen",
+      "place_id": "89225547",
+      "lon": "12.5767830051034",
+      "address": "Vandrutschebanen, Dyrehavsbakken, Lyngby-Taarb\u00e6k Kommune, Region Hovedstaden, 2930, Danmark, European Union",
+      "lat": "55.7756464131871",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Forstbotanisk Have",
+      "place_id": "131583",
+      "lon": "12.5730167",
+      "address": "Forstbotanisk Have, Bregneg\u00e5rdsvej, Charlottenlund, Klampenborg, Gentofte Kommune, Region Hovedstaden, 2920, Danmark, European Union",
+      "lat": "55.7516723",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Bondebyen",
+      "place_id": "1026062",
+      "lon": "12.504848",
+      "address": "Bondebyen, Asylgade, Kongens Lyngby, Lyngby-Taarb\u00e6k Kommune, Region Hovedstaden, 2800, Danmark, European Union",
+      "lat": "55.7774206",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Bakken",
+      "place_id": "132495",
+      "lon": "12.5777209",
+      "address": "Bakken, Dyrehavevej, Lyngby-Taarb\u00e6k Kommune, Region Hovedstaden, 2930, Danmark, European Union",
+      "lat": "55.7747732",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Middelgrundsfortet",
+      "place_id": "123415",
+      "lon": "12.665948",
+      "address": "Middelgrundsfortet, Kraftv\u00e6rksvej, Frederiksstaden, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1432, Danmark, European Union",
+      "lat": "55.7207305",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Nationalmuseet",
+      "place_id": "98199767",
+      "lon": "12.5743576830692",
+      "address": "Nationalmuseet, 10, Ny Vestergade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1471, Danmark, European Union",
+      "lat": "55.6747118",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Vor Frue Kirke",
+      "place_id": "38576470",
+      "lon": "12.5727299221737",
+      "address": "Vor Frue Kirke, Frue Plads, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1166, Danmark, European Union",
+      "lat": "55.67934935",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Runde taarn",
+      "place_id": "49855641",
+      "lon": "12.5757872155483",
+      "address": "Runde taarn, K\u00f8bmagergade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1126, Danmark, European Union",
+      "lat": "55.6813603",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Statens Museum for Kunst",
+      "place_id": "37781859",
+      "lon": "12.5783603911677",
+      "address": "Statens Museum for Kunst, S\u00f8lvgade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1307, Danmark, European Union",
+      "lat": "55.6887331",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Sankt Petri Kirke",
+      "place_id": "38813131",
+      "lon": "12.5709135870977",
+      "address": "Sankt Petri Kirke, Sankt Peders Str\u00e6de, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1451, Danmark, European Union",
+      "lat": "55.6800228",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Hellig\u00e5ndskirken",
+      "place_id": "79713698",
+      "lon": "12.5769621951173",
+      "address": "Hellig\u00e5ndskirken, Amagertorv, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1160, Danmark, European Union",
+      "lat": "55.6790459",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Museo_Guinness",
+      "place_id": "98223576",
+      "lon": "12.5838399727372",
+      "address": "Museo_Guinness, \u00d8stergade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1100, Danmark",
+      "lat": "55.6801845867367",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Salones_de_recepci\u00f3n_reales",
+      "place_id": "38181007",
+      "lon": "12.5799120743256",
+      "address": "Salones_de_recepci\u00f3n_reales, Prins J\u00f8rgens G\u00e5rd, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1212, Danmark",
+      "lat": "55.6768885002042",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Synagogen",
+      "place_id": "38434729",
+      "lon": "12.5735384373066",
+      "address": "Synagogen, Krystalgade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1169, Danmark, European Union",
+      "lat": "55.6811316494848",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Museo Ripley's Believe It or Not!",
+      "place_id": "98155997",
+      "lon": "12.5699792235866",
+      "address": "Museo Ripley's Believe It or Not!, Vester Voldgade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1599, Danmark, European Union",
+      "lat": "55.6763286",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Colecci\u00f3n_David",
+      "place_id": "79232523",
+      "lon": "12.5825272844108",
+      "address": "Colecci\u00f3n_David, Kronprinsessegade, Frederiksstaden, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1306, Danmark, European Union",
+      "lat": "55.6842496318945",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Kommunitetsbygningen",
+      "place_id": "39116563",
+      "lon": "12.5715949238227",
+      "address": "Kommunitetsbygningen, N\u00f8rregade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1167, Danmark, European Union",
+      "lat": "55.68004365",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Post & Tele Museum",
+      "place_id": "79310750",
+      "lon": "12.5772823273182",
+      "address": "Post & Tele Museum, L\u00f8vstr\u00e6de, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1153, Danmark",
+      "lat": "55.6804538",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Rosenborg Slot",
+      "place_id": "37878312",
+      "lon": "12.5774406877977",
+      "address": "Rosenborg Slot, Kongens Have, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1123, Danmark, European Union",
+      "lat": "55.68568175",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Dansk Design Centre",
+      "place_id": "93781622",
+      "lon": "12.5718760194568",
+      "address": "Dansk Design Centre, H.C. Andersens Boulevard, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1553, Danmark, European Union",
+      "lat": "55.6741084868547",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Universitetsbiblioteket",
+      "place_id": "38407164",
+      "lon": "12.5729409687234",
+      "address": "Universitetsbiblioteket, Fiolstr\u00e6de, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1172, Danmark, European Union",
+      "lat": "55.6803293",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Zoologisk Museum",
+      "place_id": "37879030",
+      "lon": "12.5721405305348",
+      "address": "Zoologisk Museum, Krystalgade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1165, Danmark, European Union",
+      "lat": "55.68041435",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Fiolstr\u00e6de",
+      "place_id": "78039389",
+      "lon": "12.5731161681575",
+      "address": "Fiolstr\u00e6de, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1171, Danmark, European Union",
+      "lat": "55.6812898474965",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Thorvaldsens museet",
+      "place_id": "98224046",
+      "lon": "12.5787805488715",
+      "address": "Thorvaldsens museet, Prins J\u00f8rgens G\u00e5rd, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1212, Danmark",
+      "lat": "55.67675055",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "55\u00b041\u203247.00 N 12\u00b032\u203259.20 E",
+      "place_id": "70417741",
+      "lon": "12.5431167333398",
+      "address": "55\u00b041\u203247.00 N 12\u00b032\u203259.20 E, Helleb\u00e6kgade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1959, Danmark, European Union",
+      "lat": "55.6911730507946",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Farvergade",
+      "place_id": "78413500",
+      "lon": "12.572634312381",
+      "address": "Farvergade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1463, Danmark, European Union",
+      "lat": "55.67582295",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Frue Plads",
+      "place_id": "39235210",
+      "lon": "12.5726871530688",
+      "address": "Frue Plads, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1166, Danmark, European Union",
+      "lat": "55.67992965",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "K\u00f8benhavns R\u00e5dhus",
+      "place_id": "97576692",
+      "lon": "12.5702388966185",
+      "address": "K\u00f8benhavns R\u00e5dhus, H.C. Andersens Boulevard, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1599, Danmark, European Union",
+      "lat": "55.6752809161735",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Museo_Arte_Moderno",
+      "place_id": "98151223",
+      "lon": "12.5719602523956",
+      "address": "Museo_Arte_Moderno, Niels Brocks Gade, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1568, Danmark, European Union",
+      "lat": "55.6725476655151",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Holmes Kirke",
+      "place_id": "98230187",
+      "lon": "12.5834080282578",
+      "address": "Holmes Kirke, Holmens Kanal, Slotsholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1063, Danmark",
+      "lat": "55.6764802",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Brumleby",
+      "place_id": "4858173",
+      "lon": "12.5752343",
+      "address": "Brumleby, \u00d8sterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2100, Danmark",
+      "lat": "55.7010933",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "M\u00f8stings Hus",
+      "place_id": "902681",
+      "lon": "12.5277356",
+      "address": "M\u00f8stings Hus, Andebakkesti, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1861, Danmark, European Union",
+      "lat": "55.6783755",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Br\u00f8ndsalen",
+      "place_id": "92896632",
+      "lon": "12.5317051699149",
+      "address": "Br\u00f8ndsalen, Pile Alle, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1806, Danmark, European Union",
+      "lat": "55.6741226820303",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Biologisk mangfoldighed",
+      "place_id": "83514744",
+      "lon": "12.5394669359819",
+      "address": "Biologisk mangfoldighed, Dyrl\u00e6gevej, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1867, Danmark, European Union",
+      "lat": "55.6788279",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Pile Alle",
+      "place_id": "91051799",
+      "lon": "12.5307520456129",
+      "address": "Pile Alle, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1804, Danmark, European Union",
+      "lat": "55.6714443876989",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Roskildevej",
+      "place_id": "92032217",
+      "lon": "12.5306794519536",
+      "address": "Roskildevej, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1805, Danmark, European Union",
+      "lat": "55.6711583168272",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Pacifier tree",
+      "place_id": "17089968",
+      "lon": "12.5281808",
+      "address": "Pacifier tree, Frederik VI's Alle, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1854, Danmark, European Union",
+      "lat": "55.6764285",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Det Kinesiske Lysthus",
+      "place_id": "91887350",
+      "lon": "12.5275467849618",
+      "address": "Det Kinesiske Lysthus, Frederik VI's Alle, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1854, Danmark, European Union",
+      "lat": "55.6755528976491",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Christians Kirke",
+      "place_id": "47215595",
+      "lon": "12.5871577154573",
+      "address": "Christians Kirke, Johan Semps Gade, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1402, Danmark",
+      "lat": "55.67231935",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Kastelskirken",
+      "place_id": "38049202",
+      "lon": "12.5928572260428",
+      "address": "Kastelskirken, Kastellet, Nyholm, Frederiksstaden, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1263, Danmark, European Union",
+      "lat": "55.6913829",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "\u062f\u0627\u0631 \u0623\u0648\u0628\u0631\u0627 \u0643\u0648\u0628\u0646\u0647\u0627\u063a\u0646",
+      "place_id": "37540244",
+      "lon": "12.6007484056424",
+      "address": "\u062f\u0627\u0631 \u0623\u0648\u0628\u0631\u0627 \u0643\u0648\u0628\u0646\u0647\u0627\u063a\u0646, 10, Ekvipagemestervej, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1438, Danmark",
+      "lat": "55.68199395",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "HDMS Peder Skram",
+      "place_id": "40804008",
+      "lon": "12.6048923894452",
+      "address": "HDMS Peder Skram, Elefanten, Marinestation Holmen, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1439, Danmark",
+      "lat": "55.6885271267233",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "HDMS S\u00e6len",
+      "place_id": "73158964",
+      "lon": "12.6054585263906",
+      "address": "HDMS S\u00e6len, Bradb\u00e6nken, Marinestation Holmen, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1439, Danmark",
+      "lat": "55.6868266",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Nordatlantens Brygge",
+      "place_id": "67355984",
+      "lon": "12.59663925",
+      "address": "Nordatlantens Brygge, Strandgade, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1428, Danmark",
+      "lat": "55.6776707",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Vor Frelsers Kirke",
+      "place_id": "37938831",
+      "lon": "12.5942876498092",
+      "address": "Vor Frelsers Kirke, Dronningensgade, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1407, Danmark",
+      "lat": "55.67292565",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Frihedsmuseet",
+      "place_id": "98185212",
+      "lon": "12.5960929163036",
+      "address": "Frihedsmuseet, Esplanaden, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1263, Danmark",
+      "lat": "55.68822355",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Nyholm",
+      "place_id": "38897052",
+      "lon": "12.5940819183619",
+      "address": "Nyholm, Frederiksstaden, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1270, Danmark, European Union",
+      "lat": "55.6906849429278",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Christian den VII's Pal\u00e6",
+      "place_id": "67645883",
+      "lon": "12.5920976602007",
+      "address": "Christian den VII's Pal\u00e6, Amalienborg Slotsplads, Christiania, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1257, Danmark, European Union",
+      "lat": "55.6838156",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Kastellet",
+      "place_id": "38531329",
+      "lon": "12.5947457133594",
+      "address": "Kastellet, Nyholm, Frederiksstaden, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1263, Danmark, European Union",
+      "lat": "55.6920503343704",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Kunstindustrimuseet",
+      "place_id": "97929993",
+      "lon": "12.5926672998076",
+      "address": "Kunstindustrimuseet, Bredgade, Frederiksholm, Frederiksstaden, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1265, Danmark, European Union",
+      "lat": "55.6863777",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Sofiebadet",
+      "place_id": "92347324",
+      "lon": "12.5911282411507",
+      "address": "Sofiebadet, Sofiegade, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1424, Danmark",
+      "lat": "55.670956141791",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Real_Museo_Naval",
+      "place_id": "67080620",
+      "lon": "12.5949452204961",
+      "address": "Real_Museo_Naval, B\u00e5dsmandsstr\u00e6de, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1422, Danmark",
+      "lat": "55.6741270935558",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Waterbus",
+      "place_id": "79458040",
+      "lon": "12.5877286725451",
+      "address": "Waterbus, Nyhavn, Arsenal\u00f8en, Frederiksstaden, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1056, Danmark, European Union",
+      "lat": "55.6804790846856",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Frederiks Kirke",
+      "place_id": "36862896",
+      "lon": "12.5895382510316",
+      "address": "Frederiks Kirke, Frederiksgade, Marmorkirken Metro construction site, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1264, Danmark, European Union",
+      "lat": "55.6849817",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Det Kongelige",
+      "place_id": "98246016",
+      "lon": "12.5862099476283",
+      "address": "Det Kongelige, August Bournonvilles Passage, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1055, Danmark, European Union",
+      "lat": "55.67933785",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Skuespilhuset",
+      "place_id": "37998593",
+      "lon": "12.5947132635019",
+      "address": "Skuespilhuset, Kv\u00e6sthusgade, Christiania, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1251, Danmark, European Union",
+      "lat": "55.68007095",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Christian den VIII's Pal\u00e6",
+      "place_id": "37848749",
+      "lon": "12.5926914051093",
+      "address": "Christian den VIII's Pal\u00e6, Amalienborg Slotsplads, Christiania, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1257, Danmark, European Union",
+      "lat": "55.68454595",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Gammel Dok Pakhus",
+      "place_id": "37935402",
+      "lon": "12.5912372168295",
+      "address": "Gammel Dok Pakhus, B\u00e5dsmandsstr\u00e6de, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1401, Danmark, European Union",
+      "lat": "55.6758063493434",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Frederik den VIII's Pal\u00e6",
+      "place_id": "67978004",
+      "lon": "12.594343964899",
+      "address": "Frederik den VIII's Pal\u00e6, Amalienborg Slotsplads, Christiania, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1257, Danmark, European Union",
+      "lat": "55.6841877",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Christian den IX's Pal\u00e6",
+      "place_id": "67363847",
+      "lon": "12.5937534577166",
+      "address": "Christian den IX's Pal\u00e6, Amalienborg Slotsplads, Christiania, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1257, Danmark, European Union",
+      "lat": "55.6834287",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Museo_del_\u00c1mbar",
+      "place_id": "79274054",
+      "lon": "12.5876185763598",
+      "address": "Museo_del_\u00c1mbar, Store Strandstr\u00e6de, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1255, Danmark",
+      "lat": "55.6809341303867",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Planetstien: Neptun",
+      "place_id": "12254062",
+      "lon": "12.4754696",
+      "address": "Planetstien: Neptun, Planetstien, Hvidovre, Hvidovre Kommune, Region Hovedstaden, 2650, Danmark, European Union",
+      "lat": "55.6173299",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Planetstien: Pluto",
+      "place_id": "12552664",
+      "lon": "12.457315",
+      "address": "Planetstien: Pluto, Planetstien, Aved\u00f8re Landsby, Hvidovre Kommune, Region Hovedstaden, 2650, Danmark, European Union",
+      "lat": "55.6162374",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Stjernevejspavillon",
+      "place_id": "45372525",
+      "lon": "12.5298344443319",
+      "address": "Stjernevejspavillon, Bavneh\u00f8j All\u00e9, Vestre Kirkeg\u00e5rd, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1748, Danmark, European Union",
+      "lat": "55.6571701825503",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Sneppestien",
+      "place_id": "53268814",
+      "lon": "12.530539011858",
+      "address": "Sneppestien, K\u00f8benhavn, Region Hovedstaden, 2450, Danmark, European Union",
+      "lat": "55.6027032305101",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Rosenhaven",
+      "place_id": "46112078",
+      "lon": "12.517559752593",
+      "address": "Rosenhaven, Tudsemindevej, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2450, Danmark, European Union",
+      "lat": "55.6402664137085",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Planetstien: Venus",
+      "place_id": "11849540",
+      "lon": "12.5044545",
+      "address": "Planetstien: Venus, Planetstien, Hvidovre, Hvidovre Kommune, Region Hovedstaden, 2500, Danmark, European Union",
+      "lat": "55.6356691",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Planetstien: Uranus",
+      "place_id": "12705761",
+      "lon": "12.4973121",
+      "address": "Planetstien: Uranus, Planetstien, Hvidovre, Hvidovre Kommune, Region Hovedstaden, 2650, Danmark, European Union",
+      "lat": "55.6178643",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Planetstien: Merkur",
+      "place_id": "12532245",
+      "lon": "12.5050989",
+      "address": "Planetstien: Merkur, Planetstien, Hvidovre, Hvidovre Kommune, Region Hovedstaden, 2500, Danmark, European Union",
+      "lat": "55.6359367",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Planetstien: Jorden og M\u00e5nen",
+      "place_id": "810786",
+      "lon": "12.5044904",
+      "address": "Planetstien: Jorden og M\u00e5nen, Planetstien, Hvidovre, Hvidovre Kommune, Region Hovedstaden, 2500, Danmark, European Union",
+      "lat": "55.6353425",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Planetstien: Solen",
+      "place_id": "12236259",
+      "lon": "12.5045067",
+      "address": "Planetstien: Solen, Planetstien, Hvidovre, Hvidovre Kommune, Region Hovedstaden, 2500, Danmark, European Union",
+      "lat": "55.63629",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Planetstien: Mars",
+      "place_id": "12261972",
+      "lon": "12.5056374",
+      "address": "Planetstien: Mars, Planetstien, Hvidovre, Hvidovre Kommune, Region Hovedstaden, 2500, Danmark, European Union",
+      "lat": "55.6353564",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Planetstien: Jupiter",
+      "place_id": "12705767",
+      "lon": "12.5028977",
+      "address": "Planetstien: Jupiter, Planetstien, Hvidovre, Hvidovre Kommune, Region Hovedstaden, 2500, Danmark, European Union",
+      "lat": "55.6310477",
+      "type": "attraction",
+      "class": "tourism"
+   },
+   {
+      "name": "Planetstien: Saturn",
+      "place_id": "11852995",
+      "lon": "12.4982313",
+      "address": "Planetstien: Saturn, Planetstien, Hvidovre, Hvidovre Kommune, Region Hovedstaden, 2500, Danmark, European Union",
+      "lat": "55.6261022",
+      "type": "attraction",
+      "class": "tourism"
+   }
+]

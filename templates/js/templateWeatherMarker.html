@@ -1,0 +1,13 @@
+<b><%=name%></b>
+<br/>
+<table class="table">
+	<tbody>
+		<% _.each(properties, function(value, key) {
+		if(value) {%>
+		<tr>
+			<td> <%= key %> </td>
+			<td> <%= value %> </td>
+		</tr>
+		<% }}); %>
+	</tbody>
+</table>
